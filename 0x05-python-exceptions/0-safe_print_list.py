@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def safe_print_list(my_list=[], x=0):
     """Safely prints a specified number of elements from a list.
 
@@ -19,4 +20,4 @@ def safe_print_list(my_list=[], x=0):
         except IndexError:
             break
     print("")
-    return elements_printed
+    return (elements_printed)
