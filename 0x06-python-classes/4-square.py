@@ -2,6 +2,7 @@
 # 4-square.py
 """Defines a class called Square."""
 
+
 class Square:
     """Represents a square."""
 
