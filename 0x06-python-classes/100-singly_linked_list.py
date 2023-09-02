@@ -47,7 +47,8 @@ class SinglyLinkedList:
         self.__head = None
 
     def sorted_insert(self, value):
-        """Insert a new Node into the singly-linked list while maintaining order.
+        """Insert a new Node into the singly-linked list
+             while maintaining order.
 
         Args:
             value (int): The value to be inserted.
@@ -75,4 +76,3 @@ class SinglyLinkedList:
             values.append(str(tmp.data))
             tmp = tmp.next_node
         return '\n'.join(values)
-
