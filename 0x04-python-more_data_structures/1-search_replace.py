@@ -11,7 +11,8 @@ def search_replace(my_list, search, replace):
     :param replace: The element to replace the 'search' element with.
     :return: A new list with the specified replacements.
     """
-    new_list = my_list[:]  # Create a copy of the original list to avoid modifying it directly.
+# Create a copy of the original list to avoid modifying it directly.
+    new_list = my_list[:]
     for i in range(len(new_list)):
         if new_list[i] == search:
             new_list[i] = replace
