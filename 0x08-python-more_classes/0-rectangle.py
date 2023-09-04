@@ -1,12 +1,7 @@
 #!/usr/bin/python3
-# 0-rectangle.py
+"""This module defines a simple Rectangle class."""
 
 
 class Rectangle:
-    """
-    Defines a Rectangle class.
-
-    Attributes:
-        No attributes at the moment.
-    """
+    """Empty Rectangle class."""
     pass
