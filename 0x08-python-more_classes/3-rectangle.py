@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 # 3-rectangle.py
-"""
-This module defines a Rectangle class.
-"""
 
 
 class Rectangle:
