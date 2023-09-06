@@ -1,0 +1,57 @@
+"""
+Test case for 3-say_my_name.py
+"""
+
+import pytest
+from contextlib import contextmanager
+from io import StringIO
+
+# Import the say_my_name function from the module
+say_my_name = __import__('3-say_my_name').say_my_name
+
+# Helper function to capture stdout
+@contextmanager
+def capture_stdout():
+    old_out = sys.stdout
+    sys.stdout = StringIO()
+    yield sys.stdout
+    sys.stdout = old_out
+
+# Test cases for say_my_name function
+def test_say_my_name_with_last_name():
+    with capture_stdout() as captured:
+        say_my_name("Beta", "Scribbles")
+        assert captured.getvalue().strip() == "My name is Beta Scribbles"
+
+def test_say_my_name_without_last_name():
+    with capture_stdout() as captured:
+        say_my_name("Tom Jerry", "Avril")
+        assert captured.getvalue().strip() == "My name is Tom Jerry Avril"
+
+def test_say_my_name_without_last_name_default():
+    with capture_stdout() as captured:
+        say_my_name("Beta")
+        assert captured.getvalue().strip() == "My name is Beta"
+
+def test_say_my_name_invalid_first_name_type():
+    with pytest.raises(TypeError):
+        say_my_name(6, "James")
+
+def test_say_my_name_invalid_last_name_type():
+    with pytest.raises(TypeError):
+        say_my_name("MeCalister", ["Cavs", "Bakers", "Heat"])
+
+def test_say_my_name_invalid_first_name_dict():
+    with pytest.raises(TypeError):
+        say_my_name({"LeBron": 6, "Lames": 23}, 7.7)
+
+def test_say_my_name_invalid_first_name_none():
+    with pytest.raises(TypeError):
+        say_my_name(None)
+
+def test_say_my_name_missing_argument():
+    with pytest.raises(TypeError):
+        say_my_name()
+
+if __name__ == "__main__":
+    pytest.main()
