@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 # 100-append_after.py
-"""Defines a function to insert text after lines containing a specified string."""
+"""
+Defines a function to insert text after lines containing a specified string.
+"""
 
 
 def append_after(filename="", search_string="", new_string=""):
