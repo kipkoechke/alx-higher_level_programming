@@ -2,6 +2,7 @@
 """Defines a Rectangle subclass called Square."""
 Rectangle = __import__('9-rectangle').Rectangle
 
+
 class Square(Rectangle):
     """Represents a square."""
 
