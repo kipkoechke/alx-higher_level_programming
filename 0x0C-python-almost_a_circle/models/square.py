@@ -79,3 +79,12 @@ def update(self, *args, **kwargs):
             elif k == "y":
                 self.y = v
 
+def to_dictionary(self):
+    """Convert the Square attributes to a dictionary."""
+    return {
+        "id": self.id,
+        "size": self.width,
+        "x": self.x,
+        "y": self.y
+    }
+
