@@ -145,3 +145,14 @@ def update(self, *args, **kwargs):
             elif k == "y":
                 self.y = v
 
+def to_dictionary(self):
+    """Convert the Rectangle attributes to a dictionary."""
+    return {
+        "id": self.id,
+        "width": self.width,
+        "height": self.height,
+        "x": self.x,
+        "y": self.y
+    }
+
+
