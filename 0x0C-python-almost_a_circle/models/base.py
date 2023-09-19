@@ -5,6 +5,7 @@ import json
 import turtle
 import csv
 
+
 class Base:
     """Represents the base model.
 
@@ -33,7 +34,7 @@ class Base:
         """Serialize a list of dictionaries to JSON.
 
         Args:
-            list_dictionaries (list): A list of dictionaries.
+           list_dictionaries (list): A list of dictionaries.
             
         Returns:
             str: A JSON string representation of the list of dictionaries.
@@ -65,7 +66,8 @@ class Base:
         """Deserialize a JSON string to a list of dictionaries.
 
         Args:
-            json_string (str): A JSON string representation of a list of dictionaries.
+            json_string (str):
+              A JSON string representation of a list of dictionaries.
 
         Returns:
             list: A Python list represented by the JSON string.
