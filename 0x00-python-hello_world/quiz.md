@@ -120,3 +120,16 @@ What does this commandline print?
 - [ ] on
 - [x] is
 - [ ] si
+
+#### Question #9
+
+What does this commandline print?
+
+```
+>>> print(f"{98} Battery street, {'San Francisco'}")
+```
+
+- [x] 98 Battery street, San Francisco
+- [ ] “98 Battery street, San Francisco”
+- [ ] 8 Battery street, San
+- [ ] San Francisco Battery street, 98
