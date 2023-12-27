@@ -3,3 +3,14 @@
 > Python if else, loops and functions
 
 ![meme](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/233/code.png)
+
+## Intro
+
+In this module, we will explore control structures in python (branching and looping) and functions
+
+## Resources
+
+1. [Flow control](https://docs.python.org/3/tutorial/controlflow.html)
+2. [IndentationError](https://www.youtube.com/watch?v=1QXOd2ZQs-Q)
+3. [String formating](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
+4. [Looping](https://www.youtube.com/watch?v=swQEbZ6ez1I&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt&index=2)
