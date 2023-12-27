@@ -194,4 +194,10 @@ Prototypes for functions written in this project:
   - Using only one `print` and one loop.
   - Without storing characters in variables or importing modules.
 
+* **15. Remove at position**
+
+  - [101-remove_char_at.py](./101-remove_char_at_py): Python function that
+    creates a copy of a string without the character at position `n`.
+  - Without importing modules.
+
     <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
