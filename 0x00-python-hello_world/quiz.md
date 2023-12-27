@@ -105,3 +105,18 @@ What does this commandline print?
 - [x] Python
 - [ ] Pytho
 - [ ] Python is cool
+
+#### Question #8
+
+What does this commandline print?
+
+```
+>>> a = "Python is cool"
+>>> print(a[7:-5])
+```
+
+- [ ] Python
+- [ ] nohtyP
+- [ ] on
+- [x] is
+- [ ] si
