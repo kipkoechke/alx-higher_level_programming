@@ -117,4 +117,12 @@ Prototypes for functions written in this project:
   - Without storing numbers or strings in variables or importing modules.
   - Printing format: `[decimal] = [hexadecimal]`
 
+* **5. 00...99**
+
+  - [5-print_comb2.py](./5-print_comb2.py): Python program that prints numbers from `0`
+    to `99` two digits each.
+  - Numbers are separated by `, `, except for the last number, which is followed by a new line.
+  - Using no more than two `print` functions and one loop.
+  - Without storing numbers or strings in variables or importing modules.
+
     <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
