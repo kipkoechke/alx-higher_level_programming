@@ -122,4 +122,11 @@ School!` using the variables `str1 = "Holberton"` and `str2 = "School"`.
   - `middle_word`: Contains the value of the variable `word` without the first and last letters.
   - Completion of [this source code](https://github.com/alx-tools/0x00.py/blob/master/7-edges.py).
 
-  <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
+- **8. Create a new sentence**
+
+  - [8-concat_edges.py](./8-concat_edges.py): Python script that prints `object-oriented
+programming with Python`, followed by a new line without creating new variables or
+    string literals.
+  - Completion of [this source code](https://github.com/alx-tools/0x00.py/blob/master/8-concat_edges.py).
+
+    <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
