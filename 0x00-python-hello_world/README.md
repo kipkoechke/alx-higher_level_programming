@@ -94,4 +94,10 @@ like building a multilingual puzzle`, followed by a new line using the function 
     in the variable `number`, followed by `Battery street`, followed by a new line.
   - Completion of [this source code](https://github.com/alx-tools/0x00.py/blob/master/3-print_number.py).
 
+- **4. Print float**
+
+  - [4-print_float.py](./4-print_float.py): Python script that prints the float stored
+    in the variable `number` with a precision of two digits.
+  - Completion of [this source code](https://github.com/alx-tools/0x00.py/blob/master/4-print_float.py).
+
   <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
