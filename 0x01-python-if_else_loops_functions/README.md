@@ -154,4 +154,9 @@ Prototypes for functions written in this project:
   - Returns the value of the last digit.
   - Without importing modules.
 
+* **10. a + b**
+
+  - [10-add.py](./10-add.py): Python function that returns the addition of two integers.
+  - Without importing modules.
+
     <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
