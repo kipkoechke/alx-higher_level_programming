@@ -93,4 +93,10 @@ Prototypes for functions written in this project:
     - Followed by a new line.
   - Completion of [this source code](https://github.com/alx-tools/0x01.py/blob/master/1-last_digit_py).
 
+* **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
+  * [2-print_alphabet.py](./2-print_alphabet.py): Python program that prints the alphabet
+  in lowercase, not followed by a new line.
+  * Using only one `print` and one loop.
+  * Without storing characters in variables or importing modules.
+  
 <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
