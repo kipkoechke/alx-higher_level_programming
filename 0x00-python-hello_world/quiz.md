@@ -43,3 +43,16 @@ What does this commandline print?
 - [ ] Pytho
 - [x] Python
 - [ ] is cool
+
+#### Question #3
+
+What does this commandline print
+
+```
+>>> print("Holberton school")
+```
+
+- [ ] Holberton school
+- [ ] Holberton
+- [ ] "Holberton school"
+- [ ] 'Holberton school'
