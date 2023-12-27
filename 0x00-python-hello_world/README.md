@@ -88,4 +88,10 @@ Prototypes for functions written in this project:
   - [2-print.py](./2-print.py): Python script that prints exactly `"Programming is
 like building a multilingual puzzle`, followed by a new line using the function `print`.
 
-    <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
+- **3. Print integer**
+
+  - [3-print_number.py](./3-print_number.py): Python script that prints the integer stored
+    in the variable `number`, followed by `Battery street`, followed by a new line.
+  - Completion of [this source code](https://github.com/alx-tools/0x00.py/blob/master/3-print_number.py).
+
+  <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
