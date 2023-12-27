@@ -113,4 +113,13 @@ like building a multilingual puzzle`, followed by a new line using the function 
 School!` using the variables `str1 = "Holberton"` and `str2 = "School"`.
   - Completion of [this source code](https://github.com/alx-tools/0x00.py/blob/master/6-concat.py).
 
-    <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
+- **7. Copy - Cut - Paste**
+
+  - [7-edges.py](./7-edges.py): Python script that sets three string variables based
+    on the string contained in the variable `word` as follows:
+  - `word_first_3`: Contains the first three letters of the variable `word`.
+  - `word_last_2`: Contains the last two letters of the variable `word`.
+  - `middle_word`: Contains the value of the variable `word` without the first and last letters.
+  - Completion of [this source code](https://github.com/alx-tools/0x00.py/blob/master/7-edges.py).
+
+  <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
