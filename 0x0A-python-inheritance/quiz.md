@@ -124,3 +124,17 @@ for i in range(2, 10, 2):
 - [ ] 2 3 4 5 6 7 8 9 10
 - [ ] 2 3 4 5 6 7 8 9
 - [x] 2 4 6 8
+
+#### Question #8
+
+What do these lines print?
+
+```python
+if 12 == 48/3 or 12 is 12:
+    print("Holberton")
+else:
+    print("School")
+```
+
+- [x] Holberton
+- [ ] School
