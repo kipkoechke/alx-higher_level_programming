@@ -78,3 +78,17 @@ else:
 
 - [ ] Holberton
 - [x] School
+
+#### Question #5
+
+What do these lines print?
+
+```python
+if True:
+    print("Holberton")
+else:
+    print("School")
+```
+
+- [x] Holberton
+- [ ] School
