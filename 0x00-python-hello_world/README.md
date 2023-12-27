@@ -83,4 +83,9 @@ Prototypes for functions written in this project:
   - [1-run_inline](./1-run_inline): Bash script that runs Python code saved in the
     environment variable `$PYCODE`.
 
-  <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
+- **2. Hello, print**
+
+  - [2-print.py](./2-print.py): Python script that prints exactly `"Programming is
+like building a multilingual puzzle`, followed by a new line using the function `print`.
+
+    <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
