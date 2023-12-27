@@ -78,4 +78,9 @@ Prototypes for functions written in this project:
   - [0-run](./0-run): Bash script that runs a Python script file saved
     in the environment variable `$PYFILE`.
 
+- **1. Run inline**
+
+  - [1-run_inline](./1-run_inline): Bash script that runs Python code saved in the
+    environment variable `$PYCODE`.
+
   <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
