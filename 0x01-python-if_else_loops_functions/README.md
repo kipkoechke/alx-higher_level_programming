@@ -147,4 +147,11 @@ Prototypes for functions written in this project:
   - Using no more than two `print` functions and one loop.
   - Without importing modules or using `str.upper()` or `str.isupper()`.
 
+* **9. There are only 3 colors, 10 digits, and 7 notes; its what we do with them that's important**
+
+  - [9-print_last_digit.py](./9-print_last_digit.py): Python function that prints the last
+    digit of a number.
+  - Returns the value of the last digit.
+  - Without importing modules.
+
     <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
