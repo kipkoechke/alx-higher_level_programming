@@ -173,4 +173,17 @@ Prototypes for functions written in this project:
   - For multiples of three and five, `FizzBuzz` is printed instead of the number.
   - Without importing modules.
 
+* **13. Insert in sorted linked list**
+  - [13-insert_number.c](./13-insert_number.c): C function that inserts a number
+    into a sorted linked list.
+  - If the function fails, returns `NULL`.
+  - Otherwise, returns the address of the new node.
+  - Helper files:
+
+    - [linked_lists.c](./linked_lists.c): C functions handling linked lists for testing
+      [13-insert_number.c](./13-insert_number.c) (provided by Holberton School).
+    - [lists.h](./lists.h): Header file containing definitions and prototypes for
+      all types and functions used in [linked_lists.c](./linked_lists.c) and
+      [13-insert_number.c](./13-insert_number.c).
+
     <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
