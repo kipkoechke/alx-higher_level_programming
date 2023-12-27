@@ -164,4 +164,13 @@ Prototypes for functions written in this project:
   - [11-pow.py](./11-pow.py): Python function that returns `a` to the power of `b`.
   - Without importing modules.
 
+* **12. Fizz Buzz**
+
+  - [12-fizzbuzz.py](./12-fizzbuzz.py): Python function that prints the numbers from
+    `1` to `100` followed by a space.
+  - For multiples of three, `Fizz` is printed instead of the number.
+  - For multiples of five, `Buzz` is printed instead of the number.
+  - For multiples of three and five, `FizzBuzz` is printed instead of the number.
+  - Without importing modules.
+
     <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
