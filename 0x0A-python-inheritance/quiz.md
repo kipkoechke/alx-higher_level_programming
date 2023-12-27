@@ -110,3 +110,17 @@ else:
 - [ ] School
 - [ ] Holberton
 - [x] C is fun
+
+#### Question #7
+
+What do these lines print?
+
+```python
+for i in range(2, 10, 2):
+    print(i, end=" ")
+```
+
+- [ ] 4 6 8 10 12 14 16 18
+- [ ] 2 3 4 5 6 7 8 9 10
+- [ ] 2 3 4 5 6 7 8 9
+- [x] 2 4 6 8
