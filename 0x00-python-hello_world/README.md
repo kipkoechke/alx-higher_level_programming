@@ -62,4 +62,13 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 
 [Quiz](./quiz.md)
 
+## Function Prototypes :floppy_disk:
+
+Prototypes for functions written in this project:
+
+| File                       | Prototype                           |
+| -------------------------- | ----------------------------------- |
+| `10-check_cycle.c`         | `int check_cycle(listint_t *list);` |
+| `102-magic_calculation.py` | `def magic_calculation(a, b):`      |
+
 <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
