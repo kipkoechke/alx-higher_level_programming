@@ -146,4 +146,11 @@ programming with Python`, followed by a new line without creating new variables 
       all types and functions used in [linked_lists.c](./linked_lists.c) and
       [10-check_cycle.c](./10-check_cycle.c).
 
-  <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
+- **11. Hello, write**
+
+  - [100-write.py](./100-write.py): Python script that prints exactly `and that piece of
+art is useful - Dora Korpar, 2015-10-19`, followed by a new line to `stderr` using
+    the function `write` from the `sys` module.
+  - Exits with a status code of `1`.
+
+    <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
