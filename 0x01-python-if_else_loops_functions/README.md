@@ -140,4 +140,11 @@ Prototypes for functions written in this project:
   - Returns `True` if `c` is lowercase, `False` otherwise.
   - Without importing modules or using `str.upper()` or `str.isupper()`.
 
+* **8. To uppercase**
+
+  - [8-uppercase.py](./8-uppercase.py): Python function that prints a string in
+    uppercase followed by a new line.
+  - Using no more than two `print` functions and one loop.
+  - Without importing modules or using `str.upper()` or `str.isupper()`.
+
     <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
