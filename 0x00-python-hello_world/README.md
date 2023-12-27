@@ -71,4 +71,11 @@ Prototypes for functions written in this project:
 | `10-check_cycle.c`         | `int check_cycle(listint_t *list);` |
 | `102-magic_calculation.py` | `def magic_calculation(a, b):`      |
 
-<p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
+## Tasks :page_with_curl:
+
+- **0. Run Python File**
+
+  - [0-run](./0-run): Bash script that runs a Python script file saved
+    in the environment variable `$PYFILE`.
+
+  <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
