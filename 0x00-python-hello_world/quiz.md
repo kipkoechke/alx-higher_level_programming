@@ -29,3 +29,17 @@ What does this commandline print?
 - [ ] Python i
 - [ ] Python is
 - [x] is cool
+
+#### Question #2
+
+What does this commandline print?
+
+```
+>>> a = "Python is cool"
+>>> print(a[:6])
+```
+
+- [ ] Python is
+- [ ] Pytho
+- [x] Python
+- [ ] is cool
