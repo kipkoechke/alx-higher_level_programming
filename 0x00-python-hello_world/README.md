@@ -153,4 +153,10 @@ art is useful - Dora Korpar, 2015-10-19`, followed by a new line to `stderr` usi
     the function `write` from the `sys` module.
   - Exits with a status code of `1`.
 
-    <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
+- **12. Compile**
+
+  - [101-compile](./101-compile): Python script that compiles a Python script file stored
+    in the environment variable `$PYFILE` and saves it to an output file
+    `$PYFILEc` (ex. `export PYFILE=my_main.py` => output filename: `my_main.pyc`).
+
+  <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
