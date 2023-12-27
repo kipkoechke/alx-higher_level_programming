@@ -100,4 +100,11 @@ like building a multilingual puzzle`, followed by a new line using the function 
     in the variable `number` with a precision of two digits.
   - Completion of [this source code](https://github.com/alx-tools/0x00.py/blob/master/4-print_float.py).
 
+- **5. Print string**
+
+  - [5-print_string.py](./5-print_string.py): Python script that prints a string stored
+    in the variable `str` three times, then a new line, then the first nine characters
+    contained in `str`, followed by another new line.
+  - Completion of [this source code](https://github.com/alx-tools/0x00.py/blob/master/5-print_string.py).
+
   <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
