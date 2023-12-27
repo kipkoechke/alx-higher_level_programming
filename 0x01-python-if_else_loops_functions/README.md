@@ -84,6 +84,7 @@ Prototypes for functions written in this project:
   - Completion of [this source code](https://github.com/alx-tools/0x01.py/blob/master/0-positive_or_negative_py).
 
 * **1. The last digit**
+
   - [1-last_digit.py](./1-last_digit.py): Python program that assigns a random signed number
     to the variable `number` each time it is executed and prints its last digit.
   - Prints the string `Last digit of [number] is [last_digit]` followed by:
@@ -94,9 +95,18 @@ Prototypes for functions written in this project:
   - Completion of [this source code](https://github.com/alx-tools/0x01.py/blob/master/1-last_digit_py).
 
 * **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
-  * [2-print_alphabet.py](./2-print_alphabet.py): Python program that prints the alphabet
-  in lowercase, not followed by a new line.
-  * Using only one `print` and one loop.
-  * Without storing characters in variables or importing modules.
-  
+
+  - [2-print_alphabet.py](./2-print_alphabet.py): Python program that prints the alphabet
+    in lowercase, not followed by a new line.
+  - Using only one `print` and one loop.
+  - Without storing characters in variables or importing modules.
+
+* **3. When I was having that alphabet soup, I never thought that it would pay off**
+
+  - [3-print_alphabt.py](./3-print_alphabt.py): Python program that prints the
+    alphabet in lowercase, followed by a new line.
+  - Using only one `print` and one loop.
+  - Without storing characters in variables or importing modules.
+  - Prints every letter except for `q` and `e`.
+
 <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
