@@ -126,11 +126,18 @@ Prototypes for functions written in this project:
   - Without storing numbers or strings in variables or importing modules.
 
 * **6. Inventing is a combination of brains and materials. The more brains you use, the less material you need**
-  * [6-print_comb3.py](./6-print_comb3.py): Python program that prints all possible
-  different combinations of two digits in ascending order.
-  * Numbers are separated by `, `, except for the last number, which is followed by a new line.
-  * The two digits must be different - `01` and `10` are considered identical.
-  * Using no more than three `print` functions and two loops.
-  * Without storing numbers or strings in variables or importing modules.
+
+  - [6-print_comb3.py](./6-print_comb3.py): Python program that prints all possible
+    different combinations of two digits in ascending order.
+  - Numbers are separated by `, `, except for the last number, which is followed by a new line.
+  - The two digits must be different - `01` and `10` are considered identical.
+  - Using no more than three `print` functions and two loops.
+  - Without storing numbers or strings in variables or importing modules.
+
+* **7. islower**
+
+  - [7-islower.py](./7-islower.py): Python function that checks for lowercase characters.
+  - Returns `True` if `c` is lowercase, `False` otherwise.
+  - Without importing modules or using `str.upper()` or `str.isupper()`.
 
     <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
