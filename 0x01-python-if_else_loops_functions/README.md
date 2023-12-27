@@ -109,4 +109,12 @@ Prototypes for functions written in this project:
   - Without storing characters in variables or importing modules.
   - Prints every letter except for `q` and `e`.
 
-<a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
+* **4. Hexadecimal printing**
+
+  - [4-print_hexa.py](./4-print_hexa.py): Python program that prints all numbers from
+    `0` to `98` in decimal and hexadecimal.
+  - Using only one `print` and one loop.
+  - Without storing numbers or strings in variables or importing modules.
+  - Printing format: `[decimal] = [hexadecimal]`
+
+    <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
