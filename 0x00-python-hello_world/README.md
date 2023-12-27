@@ -134,4 +134,16 @@ programming with Python`, followed by a new line without creating new variables 
   - [9-easter_egg.py](./9-easter_egg.py): Python script that prints "The Zen of Python" by
     Tim Peters, followed by a new line.
 
+- **10. Linked list cycle**
+
+  - [10-check_cycle.c](./10-check_cycle.c): C function that checks if a linked list
+    contains a cycle.
+  - Returns `0` if there is no cycle and `1` if there is.
+  - Helper files:
+    - [linked_lists.c](./linked_lists.c): C functions handling linked lists for testing
+      [10-check_cycle.c](./10-check_cycle.c) (provided by Holberton School).
+    - [lists.h](./lists.h): Header file containing definitions and prototypes for
+      all types and functions used in [linked_lists.c](./linked_lists.c) and
+      [10-check_cycle.c](./10-check_cycle.c).
+
   <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
