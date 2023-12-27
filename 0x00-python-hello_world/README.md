@@ -129,4 +129,9 @@ programming with Python`, followed by a new line without creating new variables 
     string literals.
   - Completion of [this source code](https://github.com/alx-tools/0x00.py/blob/master/8-concat_edges.py).
 
-    <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
+- **9. Easter Egg**
+
+  - [9-easter_egg.py](./9-easter_egg.py): Python script that prints "The Zen of Python" by
+    Tim Peters, followed by a new line.
+
+  <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
