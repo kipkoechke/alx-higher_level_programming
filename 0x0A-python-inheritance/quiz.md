@@ -34,3 +34,17 @@ for i in range(2, 4):
 - [ ] 2 4
 - [x] 2 3
 - [ ] 3 4
+
+#### Question #2
+
+What do these lines print?
+
+```python
+for i in range(4):
+    print(i, end=" ")
+```
+
+- [x] 0 1 2 3
+- [ ] 1 2 3 4
+- [ ] 1 2 3 4
+- [ ] 0 1 2 3 4
