@@ -200,4 +200,8 @@ Prototypes for functions written in this project:
     creates a copy of a string without the character at position `n`.
   - Without importing modules.
 
+* **16. ByteCode -> Python #2**
+  * [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
+  bytecode provided by ALX.
+
     <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
