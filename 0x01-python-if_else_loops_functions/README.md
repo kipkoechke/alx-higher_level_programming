@@ -201,7 +201,10 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **16. ByteCode -> Python #2**
-  * [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
-  bytecode provided by ALX.
+  - [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
+    bytecode provided by ALX.
 
-    <a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
+<p align="left"><a href="../0x00-python-hello_world"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a>
+</p>
+
+<p align="right"><a href="../0x02-python-import_modules"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
