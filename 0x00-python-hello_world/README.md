@@ -33,3 +33,18 @@ In this module, we will explore the basics of programming in python.
 6. [Youtube](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 7. [PEP - python coding convention](https://peps.python.org/pep-0008/)
 8. [Pycodestyle](https://pypi.org/project/pycodestyle/)
+
+## Learning objectives
+
+By the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) without the help of Google the following.
+
+- [x] Why Python programming is awesome
+- [x] Who created Python
+- [x] Who is Guido van Rossum
+- [x] Where does the name ‘Python’ come from
+- [x] What is the Zen of Python
+- [x] How to use the Python interpreter
+- [x] How to print text and variables using print
+- [x] How to use strings
+- [x] What are indexing and slicing in Python
+- [x] What is the official Python coding style and how to check your code with `pycodestyle`
