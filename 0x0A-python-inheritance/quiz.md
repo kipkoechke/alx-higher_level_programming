@@ -92,3 +92,21 @@ else:
 
 - [x] Holberton
 - [ ] School
+
+#### Question #6
+
+What do these lines print?
+
+```python
+a = 12
+if a < 2:
+    print("Holberton")
+elif a % 2 == 0:
+    print("C is fun")
+else:
+    print("School")
+```
+
+- [ ] School
+- [ ] Holberton
+- [x] C is fun
