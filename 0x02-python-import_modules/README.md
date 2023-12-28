@@ -50,7 +50,16 @@ By the end of this session, you should be able to [explain to anyone](https://fs
   - Output: `<a value> + <b value> = <add(a, b) value>` followed by a new line.
 
 * **1. My first toolbox!**
+
   - [1-calculation.py](./1-calculation.py): Python program that imports functions
     from the file [calculator_1.py](./1-calculator.py) and prints the result
     of the addition, subtraction, multiplication and division of `10` and `5`.
   - Output: `<a value> <operator> <b value> = <operation(a, b) value>` followed by a new line.
+
+* **2. How to make a script dynamic!**
+  - [2-args.py](./2-args.py): Python program that prints the number of
+    and list of its arguments.
+  - Output: `[Number of arguments] argument` (if number is one) or `arguments` (otherwise), followed by:
+    - `:` (or `.` if no argumets were passed), followed by
+    - A new line, followed by
+    - One argument per line - the position of the argument (starting at `1`) followed by `:` followed by the argument value and another new line.
