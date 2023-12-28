@@ -40,3 +40,11 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 <a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a></div>
 
 <div style='postion:relative'><a href="../0x02-python-import_modules"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></div>
+
+## Tasks :page_with_curl:
+
+- **0. Import a simple function from a simple file**
+  - [0-add.py](./0-add.py): Python program that imports the function
+    `def add(a, b):` from the file [add_0.py](./add_0.py) and prints the
+    result of the addition `1 + 2 = 3`.
+  - Output: `<a value> + <b value> = <add(a, b) value>` followed by a new line.
