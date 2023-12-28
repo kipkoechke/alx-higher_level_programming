@@ -84,6 +84,7 @@ By the end of this session, you should be able to [explain to anyone](https://fs
     variable `a` from the file [variable_load_5.py](./variable_load_5.py) and prints its value.
 
 * **6. Build my own calculator!**
+
   - [100-my_calculator.py](./100-my_calculator.py): Python program that imports all functions
     from the file [calculator_1.py](./calculator_1.py) and handles basic operations.
   - Usage: `./100-my_calculator.py <a> <operator> <b>` followed by a new line.
@@ -97,3 +98,13 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 Available operators: +, -, *, and /` followed by a new line and exits
     with a status value of `1`.
   - If the number of arguments is not three, the program prints `Usage: ./100-my_calculator.py <a> <operator> <b>` followed by a new line and exits with a status value of `1`.
+
+* **7. Easy print**
+
+  - [101-easy_print.py](./101-easy_print.py): Python program that prints
+    `#pythoniscool` followed by a new line in the standard output.
+  - Without using `print`, `eval`, `open`, or `sys`.
+
+* **8. ByteCode -> Python #3**
+  - [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
+    bytecode provided by Holberton School.
