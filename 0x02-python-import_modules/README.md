@@ -106,5 +106,11 @@ Available operators: +, -, *, and /` followed by a new line and exits
   - Without using `print`, `eval`, `open`, or `sys`.
 
 * **8. ByteCode -> Python #3**
+
   - [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
     bytecode provided by ALX.
+
+* **9. Fast alphabet**
+  - [103-fast_alphabet.py](./103-fast_alphabet.py): Python program that prints the alphabet in
+    uppercase, followed by a new line.
+  - Without using loops, conditoinals, `str.join()`, string literals, or system calls.
