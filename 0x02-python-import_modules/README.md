@@ -57,9 +57,15 @@ By the end of this session, you should be able to [explain to anyone](https://fs
   - Output: `<a value> <operator> <b value> = <operation(a, b) value>` followed by a new line.
 
 * **2. How to make a script dynamic!**
+
   - [2-args.py](./2-args.py): Python program that prints the number of
     and list of its arguments.
   - Output: `[Number of arguments] argument` (if number is one) or `arguments` (otherwise), followed by:
     - `:` (or `.` if no argumets were passed), followed by
     - A new line, followed by
     - One argument per line - the position of the argument (starting at `1`) followed by `:` followed by the argument value and another new line.
+
+* **3. Infinite addition**
+  - [3-infinite_add.py](./3-infinite_add.py): Python program that prints the result of the
+    addition of all arguments.
+  - Output: Sum of the arguments followed by a new line.
