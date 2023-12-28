@@ -48,3 +48,9 @@ By the end of this session, you should be able to [explain to anyone](https://fs
     `def add(a, b):` from the file [add_0.py](./add_0.py) and prints the
     result of the addition `1 + 2 = 3`.
   - Output: `<a value> + <b value> = <add(a, b) value>` followed by a new line.
+
+* **1. My first toolbox!**
+  - [1-calculation.py](./1-calculation.py): Python program that imports functions
+    from the file [calculator_1.py](./1-calculator.py) and prints the result
+    of the addition, subtraction, multiplication and division of `10` and `5`.
+  - Output: `<a value> <operator> <b value> = <operation(a, b) value>` followed by a new line.
