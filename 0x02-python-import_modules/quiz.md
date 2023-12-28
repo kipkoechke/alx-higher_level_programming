@@ -47,3 +47,19 @@ What do these lines print?
 - [x] Counter: 12
 - [ ] Counter: counter
 - [ ] Counter: c
+
+#### Question #3
+
+What do these lines print?
+
+```
+>>> def my_function():
+>>>     print("In my function")
+>>>
+>>> my_function()
+```
+
+- [ ] function my_function at …
+- [ ] “In my function”
+- [x] In my function
+- [ ] Nothing
