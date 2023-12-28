@@ -79,3 +79,18 @@ What do these lines print?
 - [ ] 1
 - [ ] 89
 - [ ] 891
+
+#### Question #5
+
+What do these lines print?
+
+```
+>>> def my_function(counter=89):
+>>>     print("Counter: {}".format(counter))
+>>>
+>>> my_function(12)
+```
+
+- [ ] Counter: 101
+- [x] Counter: 12
+- [ ] Counter: 89
