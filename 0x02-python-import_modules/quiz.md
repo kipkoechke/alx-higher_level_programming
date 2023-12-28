@@ -63,3 +63,19 @@ What do these lines print?
 - [ ] “In my function”
 - [x] In my function
 - [ ] Nothing
+
+#### Question #4
+
+What do these lines print?
+
+```
+>>> def my_function(counter=89):
+>>>     return counter + 1
+>>>
+>>> print(my_function())
+```
+
+- [x] 90
+- [ ] 1
+- [ ] 89
+- [ ] 891
