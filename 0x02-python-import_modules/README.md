@@ -107,4 +107,4 @@ Available operators: +, -, *, and /` followed by a new line and exits
 
 * **8. ByteCode -> Python #3**
   - [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
-    bytecode provided by Holberton School.
+    bytecode provided by ALX.
