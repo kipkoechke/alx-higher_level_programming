@@ -79,5 +79,21 @@ By the end of this session, you should be able to [explain to anyone](https://fs
   - Names starting with `__` are not printed.
 
 * **5. Everything can be imported**
+
   - [5-variable_load.py](./5-variable_load.py): Python program that imorts the
     variable `a` from the file [variable_load_5.py](./variable_load_5.py) and prints its value.
+
+* **6. Build my own calculator!**
+  - [100-my_calculator.py](./100-my_calculator.py): Python program that imports all functions
+    from the file [calculator_1.py](./calculator_1.py) and handles basic operations.
+  - Usage: `./100-my_calculator.py <a> <operator> <b>` followed by a new line.
+  - Output: `<a> <operator> <b> = <result>` followed by a new line.
+  - The parameter `operator` can be:
+    - `+` for addition
+    - `-` for subtraction
+    - `*` for multiplication
+    - `/` for division
+  - If the operator is none of the above, the function prints `Unknown operator.
+Available operators: +, -, *, and /` followed by a new line and exits
+    with a status value of `1`.
+  - If the number of arguments is not three, the program prints `Usage: ./100-my_calculator.py <a> <operator> <b>` followed by a new line and exits with a status value of `1`.
