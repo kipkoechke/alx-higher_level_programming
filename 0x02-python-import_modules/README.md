@@ -66,6 +66,13 @@ By the end of this session, you should be able to [explain to anyone](https://fs
     - One argument per line - the position of the argument (starting at `1`) followed by `:` followed by the argument value and another new line.
 
 * **3. Infinite addition**
+
   - [3-infinite_add.py](./3-infinite_add.py): Python program that prints the result of the
     addition of all arguments.
   - Output: Sum of the arguments followed by a new line.
+
+* **4. Who are you?**
+  - [4-hidden_discovery.py](./4-hidden_discovery.py): Python program that prints all the
+    names defined by the compiled module `hidden_4.pyc`.
+  - Output: One name per line in alphabetical order.
+  - Names starting with `__` are not printed.
