@@ -163,6 +163,6 @@ art is useful - Dora Korpar, 2015-10-19`, followed by a new line to `stderr` usi
 
   - [102-magic_calculation.py](./103-magic_calculation.py): Python function matching exactly
     a bytecode provided by ALX.
-    > (![Python bytcode](image.png))
+    > ![Python bytcode](image.png)
 
   <p align="right"><a href="../0x01-python-if_else_loops_functions"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></p>
