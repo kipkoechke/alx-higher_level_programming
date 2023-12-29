@@ -104,3 +104,16 @@ What do these lines print?
 - [ ] 1
 - [ ] b
 - [ ] a
+
+#### Question #7
+
+What do these lines print?
+
+```
+>>> a = [1, 2, 3, 4]
+>>> a[1:3]
+```
+
+- [x] [2, 3]
+- [ ] [1, 2, 3]
+- [ ] [1, 2]
