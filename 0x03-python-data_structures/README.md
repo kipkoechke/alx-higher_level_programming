@@ -161,6 +161,7 @@ Prototypes for functions written in this project:
   - Completion of [this source code](https://github.com/alx-tools/0x03.py/blob/master/12-switch_py).
 
 * **13. Linked list palindrome**
+
   - [13-is_palindrome.c](./13-is_palindrome.c): C function that checks if a
     singly-linked list is a palindrome.
   - If the function is not a palindrome - returns `0`.
@@ -172,3 +173,7 @@ Prototypes for functions written in this project:
     - [lists.h](./lists.h): Header file containing definitions and prototypes for all types
       and functions used in [linked_lists.c](./linked_lists.c) and
       [13-insert_number.c](./13-insert_number.c).
+
+* **14. CPython #0: Python lists**
+  - [100-print_python_list_info.c](./100-print_python_list_info.c): C function that
+    prints basic information about Python lists.
