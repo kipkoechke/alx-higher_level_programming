@@ -139,8 +139,16 @@ Prototypes for functions written in this project:
   - Without importing modules or using the builtin `max()`.
 
 * **10. Only by 2**
+
   - [10-divisible_by_2.py](./10-divisible_by_2.py): Python function that finds all multiples
     of 2 in a list. \* Returns a new list of the same size. Each element of the new
     list contains either `True` or `False` corresponding to whether the integer at
     the same position in the original list is a multiple of 2.
   - Without importing modules.
+
+* **11. Delete at**
+  - [11-delete_at.py](./11-delete_at.py): Python function that deletes an item at
+    a specific position in a list.
+  - If `idx` is negative or out of range (greater than the number of elements in
+    `my_list`), the function returns the original list.
+  - Without imporitng modules or using `pop()`.
