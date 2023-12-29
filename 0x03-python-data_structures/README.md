@@ -155,6 +155,20 @@ Prototypes for functions written in this project:
   - Without imporitng modules or using `pop()`.
 
 * **12. Switch**
+
   - [12-switch.py](./12-switch.py): Python program that switches the values of
     variable `a` and `b`.
   - Completion of [this source code](https://github.com/alx-tools/0x03.py/blob/master/12-switch_py).
+
+* **13. Linked list palindrome**
+  - [13-is_palindrome.c](./13-is_palindrome.c): C function that checks if a
+    singly-linked list is a palindrome.
+  - If the function is not a palindrome - returns `0`.
+  - If the function is a palindrome - returns `1`.
+  - An empty list is considered a palindrome.
+  - Helper files:
+    - [linked_lists.c](./linked_lists.c): C functions handling linked lists for
+      testing [13-is_palindrome.c](./13-is_palindrome.c) (provided by Holberton School).
+    - [lists.h](./lists.h): Header file containing definitions and prototypes for all types
+      and functions used in [linked_lists.c](./linked_lists.c) and
+      [13-insert_number.c](./13-insert_number.c).
