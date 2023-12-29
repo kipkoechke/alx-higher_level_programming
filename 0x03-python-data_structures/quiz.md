@@ -15,3 +15,18 @@ What do these lines print?
 - [ ] 6
 - [ ] 2
 - [x] 5
+
+#### Question #1
+
+What do these lines print?
+
+```
+>>> a = [1, 2, 3, 4]
+>>> b = a
+>>> b
+```
+
+- [ ] 1
+- [x] [1, 2, 3, 4]
+- [ ] [1]
+- a
