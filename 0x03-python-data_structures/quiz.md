@@ -59,3 +59,16 @@ What do these lines print?
 - [ ] -1
 - [ ] 2
 - [ ] [4, 3, 2, 1]
+
+#### Question #4
+
+What do these lines print?
+
+```
+>>> a = [1, 2, 3, 4]
+>>> a[-3]
+```
+
+- [x] 2
+- [ ] -3
+- [ ] [4, 3]
