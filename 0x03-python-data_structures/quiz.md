@@ -72,3 +72,18 @@ What do these lines print?
 - [x] 2
 - [ ] -3
 - [ ] [4, 3]
+
+#### Question #5
+
+What do these lines print?
+
+```
+>>> a = [1, 2, 3, 4]
+>>> a[0]
+```
+
+- [x] 1
+- [ ] [1]
+- [ ] 2
+- [ ] [1, 2, 3, 4]
+- [ ] [1, 2]
