@@ -125,7 +125,14 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **8. More returns!**
+
   - [8-multiple_returns.py](./8-multiple_returns.py): Python function that returns a
     tuple with the length of a string and its first character.
   - If the string is empty, the first character should equal `None`.
   - Without importing modules.
+
+* **9. Find the max**
+  - [9-max_integer.py](./9-max_integer.py): Python function that finds the biggest integer
+    of a list.
+  - If the list is empty, the function returns `None`.
+  - Without importing modules or using the builtin `max()`.
