@@ -108,3 +108,9 @@ Prototypes for functions written in this project:
   - [5-no_c.py](./5-no_c.py): Python function that removes all characters `c`
     and `C` from a string and returns the string.
   - Without importing modules or using `str.replace()`.
+
+  
+* **6. Lists of lists = Matrix**
+  - [6-print_matrix_integer.py](./6-print_matrix_integer.py): Python function that prints
+    a matrix of integers, one row per line.
+  - Without casting integers into strings.
