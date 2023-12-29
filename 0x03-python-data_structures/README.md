@@ -147,8 +147,14 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **11. Delete at**
+
   - [11-delete_at.py](./11-delete_at.py): Python function that deletes an item at
     a specific position in a list.
   - If `idx` is negative or out of range (greater than the number of elements in
     `my_list`), the function returns the original list.
   - Without imporitng modules or using `pop()`.
+
+* **12. Switch**
+  - [12-switch.py](./12-switch.py): Python program that switches the values of
+    variable `a` and `b`.
+  - Completion of [this source code](https://github.com/alx-tools/0x03.py/blob/master/12-switch_py).
