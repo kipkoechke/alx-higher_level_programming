@@ -66,3 +66,10 @@ Prototypes for functions written in this project:
 | `10-divisible_by_2.py`             | `def divisible_by_2(my_list=[]):`              |
 | `11-delete_at.py`                  | `def delete_at(my_list=[], idx=0):`            |
 | `100-print_python_list_info.c`     | `void print_python_list_info(PyObject *p);`    |
+
+## Tasks :page_with_curl:
+
+- **0. Print a list of integers**
+  - [0-print_list_integer.py](./0-print_list_integer.py): Python function that prints all
+    integers of a list, one per line.
+  - Without importing modules or casting integers into strings.
