@@ -108,9 +108,17 @@ Prototypes for functions written in this project:
   - [5-no_c.py](./5-no_c.py): Python function that removes all characters `c`
     and `C` from a string and returns the string.
   - Without importing modules or using `str.replace()`.
-
-  
 * **6. Lists of lists = Matrix**
+
   - [6-print_matrix_integer.py](./6-print_matrix_integer.py): Python function that prints
     a matrix of integers, one row per line.
   - Without casting integers into strings.
+
+* **7. Tuples addition**
+  - [7-add_tuple.py](./7-add_tuple.py): Python function that adds two tuples.
+  - Returns a tuple with two integers:
+    - The first element is the addition of the first element of each argument.
+    - The second element is the addition of the second element of each argument.
+  - If a tuple is smaller than 2, the value `0` is used for the missing integer.
+  - If a tuple is larger than 2, only the first two integers are used.
+  - Without importing modules.
