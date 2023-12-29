@@ -97,8 +97,14 @@ Prototypes for functions written in this project:
   - Without importing modules or casting integers into strings.
 
 * **4. Replace in a copy**
+
   - [4-new_in_list.py](./4-new_in_list.py): Python function that replaces an element of a
     list at a specific position without modifying the original list.
   - If `idx` is negative or out of range (greater than the number of elements in
     `my_list`), the function returns the original list.
   - Without importing modules or using `try/except`.
+
+* **5. Can you C me now?**
+  - [5-no_c.py](./5-no_c.py): Python function that removes all characters `c`
+    and `C` from a string and returns the string.
+  - Without importing modules or using `str.replace()`.
