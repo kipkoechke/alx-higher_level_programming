@@ -132,7 +132,15 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **9. Find the max**
+
   - [9-max_integer.py](./9-max_integer.py): Python function that finds the biggest integer
     of a list.
   - If the list is empty, the function returns `None`.
   - Without importing modules or using the builtin `max()`.
+
+* **10. Only by 2**
+  - [10-divisible_by_2.py](./10-divisible_by_2.py): Python function that finds all multiples
+    of 2 in a list. \* Returns a new list of the same size. Each element of the new
+    list contains either `True` or `False` corresponding to whether the integer at
+    the same position in the original list is a multiple of 2.
+  - Without importing modules.
