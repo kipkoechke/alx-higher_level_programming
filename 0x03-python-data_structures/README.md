@@ -41,3 +41,8 @@ At the end of this project, you should be able to [explain to anyone](https://fs
 ## Quizes
 
 [Quizes](./quiz.md)
+
+<div style='postion:relative'>
+<a href="../0x02-python-import_modules"><img src="https://www.svgrepo.com/show/94045/back.svg" alt="back" width="50px"></a></div>
+
+<div style='postion:relative'><a href="../0x04-python-more_data_structures"><img src="https://www.svgrepo.com/show/326975/chevron-forward-circle-sharp.svg" alt="next" width="50px"></a></div>
