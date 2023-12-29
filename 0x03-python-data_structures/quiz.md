@@ -134,3 +134,17 @@ What do these lines print?
 - [x] [1, 2, 10, 4]
 - [ ] b
 - [ ] a
+
+#### Question #9
+
+What do these lines print?
+
+```
+>>> a = [1, 2, 3, 4]
+>>> len(a)
+```
+
+- [ ] 6
+- [ ] 2
+- [x] 4
+- [ ] 8
