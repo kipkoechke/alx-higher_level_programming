@@ -76,10 +76,20 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **6. Print sorted dictionary**
+
   - [6-print_sorted_dictionary.py](./6-print_sorted_dictionary.py): Python function that
     prints a dictionary by ordered keys.
   - The function assumes all keys are strings.
   - Keys are printed in alphabetic order.
   - Keys are only sorted on the first level.
   - Dictionary values can have any type.
+  - Without importing modules.
+
+* **7. Update dictionary**
+  - [7-update_dictionary.py](./7-update_dictionary.py): Python function that replaces or
+    adds key/value pairs in a dictionary.
+  - The parameter `key` is always a string.
+  - The parameter `value` is any type.
+  - If a key exists in the dictionary, the value is replaced.
+  - If a key does not exist in the dictionary, it is created.
   - Without importing modules.
