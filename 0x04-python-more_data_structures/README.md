@@ -72,3 +72,18 @@ What do these lines print?
 - [ ] 'id'
 - [ ] John
 - [x] 89
+
+#### Question #5
+
+What do these lines print?
+
+```
+>>> a = { 'id': 89, 'name': "John" }
+>>> a.get('age')
+```
+
+- [ ] 89
+- [ ] age
+- [ ] Not found
+- [x] Nothing
+- [ ] 12
