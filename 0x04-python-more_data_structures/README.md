@@ -29,3 +29,16 @@ What do these lines print?
 - [x] 1 2 3 4
 - [ ] Nothing
 - [ ] list
+
+#### Question #2
+
+What do these lines print?
+
+```
+>>> for i in range(0, 3):
+>>>     print(i, end=" ")
+```
+
+- [x] 0 1 2
+- [ ] 1 2 3
+- [ ] 0 1 2 3
