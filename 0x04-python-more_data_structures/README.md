@@ -30,3 +30,14 @@ Prototypes for functions written in this project:
 | `101-square_matrix_map.py`     | `def square_matrix_map(matrix=[]):`                                                                      |
 | `102-complex_delete.py`        | `def complex_delete(a_dictionary, value):`                                                               |
 | `103-python.c`                 | <ul><li>`void print_python_list(PyObject *p);`</li><li>`void print_python_bytes(PyObject *p);`</li></ul> |
+
+## Tasks :page_with_curl:
+
+- **0. Squared simple**
+  - [0-square_matrix_simple.py](./0-square_matrix_simple.py): Python function that computes
+    the square value of all integers of a matrix.
+  - The parameter `matrix` is a two-dimensional array.
+  - Returns a matrix of the same size as `matrix` where each value is the
+    square of the input value.
+  - The initial matrix is not modified.
+  - Without importing modules.
