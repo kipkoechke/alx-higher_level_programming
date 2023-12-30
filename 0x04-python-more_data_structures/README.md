@@ -120,9 +120,16 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **11. Multiply by using map**
+
   - [11-mutiply_list_map.py](./11-multiply_list_map.py): Python function that returns a
     list with all values multiplied by a number using `map`.
   - Returns a new length of the same length has `my_list` with each value
     multiplied by `number`.
   - The initial list is not modified.
   - Without using loops or importing modules.
+
+* **12. Roman to Integer**
+  - [12-roman_to_int.py](./12-roman_to_int.py): Python function that converts a roman
+    numeral to an integer.
+  - The function assumes the number will be between 1-3999.
+  - If the parameter `roman_string` is not a string or `None`, the function returns `0`.
