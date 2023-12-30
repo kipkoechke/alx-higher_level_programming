@@ -153,8 +153,13 @@ Prototypes for functions written in this project:
   - Without using loops or importing modules.
 
 * **15. Delete by value**
+
   - [102-complex_delete.py](./102-complex_delete.py): Python function that deletes keys with
     a specific value in a dictionary.
   - If the value does not exists, the dictionary is not changed.
   - All keys having the searched value are deleted.
   - Without importing modules.
+
+* **16. CPython #1: PyBytesObject**
+  - [103-python.c](./103-python.c): C functions that print basic information about
+    Python lists and Python bytes objects.
