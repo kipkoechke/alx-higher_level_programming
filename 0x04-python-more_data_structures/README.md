@@ -111,9 +111,18 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **10. Best score**
+
   - [10-best_score.py](./10-best_score.py): Python function that returns a key value
     with the biggest integer value.
   - The function assumes all values are integers.
   - The function assumes all students have a different score.
   - If no score is found, the functino returns `None`.
   - Without importing modules.
+
+* **11. Multiply by using map**
+  - [11-mutiply_list_map.py](./11-multiply_list_map.py): Python function that returns a
+    list with all values multiplied by a number using `map`.
+  - Returns a new length of the same length has `my_list` with each value
+    multiplied by `number`.
+  - The initial list is not modified.
+  - Without using loops or importing modules.
