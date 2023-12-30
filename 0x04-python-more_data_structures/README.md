@@ -104,7 +104,16 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **9. Multiply by 2**
+
   - [9-multiply_by_2.py](./9-multiply_by_2.py): Python function that returns a
     new dictionary with all values multiplied by 2.
   - The function assumes all values are integers.
+  - Without importing modules.
+
+* **10. Best score**
+  - [10-best_score.py](./10-best_score.py): Python function that returns a key value
+    with the biggest integer value.
+  - The function assumes all values are integers.
+  - The function assumes all students have a different score.
+  - If no score is found, the functino returns `None`.
   - Without importing modules.
