@@ -87,3 +87,18 @@ What do these lines print?
 - [ ] Not found
 - [x] Nothing
 - [ ] 12
+
+#### Question #6
+
+What do these lines print?
+
+```
+>>> a = { 'id': 89, 'name': "John" }
+>>> a['id']
+```
+
+- [ ] a['id']
+- [ ] id
+- [ ] 'id'
+- [ ] John
+- [x] 89
