@@ -70,6 +70,16 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **5. Number of keys**
+
   - [5-number_keys.py](./5-number_keys.py): Python function that returns the number of
     keys in a dictionary.
+  - Without importing modules.
+
+* **6. Print sorted dictionary**
+  - [6-print_sorted_dictionary.py](./6-print_sorted_dictionary.py): Python function that
+    prints a dictionary by ordered keys.
+  - The function assumes all keys are strings.
+  - Keys are printed in alphabetic order.
+  - Keys are only sorted on the first level.
+  - Dictionary values can have any type.
   - Without importing modules.
