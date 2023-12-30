@@ -116,3 +116,17 @@ What do these lines print?
 - [ ] 0 1 2 3
 - [ ] 1 2 3 4
 - [ ] 1 2 4 3 0
+
+#### Question #8
+
+What do these lines print?
+
+```
+>>> for i in [1, 2, 3, 4]:
+>>>     print(i, end=" ")
+```
+
+- [ ] 1 2 3
+- [ ] 0 1 2 3
+- [ ] 0 1 2 3 5
+- [x] 1 2 3 4
