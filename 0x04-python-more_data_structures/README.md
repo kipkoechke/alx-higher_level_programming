@@ -57,3 +57,18 @@ What do these lines print?
 - [ ] [ { ‘id’: 82, ‘name’: “Bob” }, { ‘id’: 83, ‘name’: “Amy” } ]
 - [ ] Nothing
 - [ ] Bob
+
+#### Question #4
+
+What do these lines print?
+
+```
+>>> a = { 'id': 89, 'name': "John" }
+>>> a.get('id')
+```
+
+- [ ] a['id']
+- [ ] id
+- [ ] 'id'
+- [ ] John
+- [x] 89
