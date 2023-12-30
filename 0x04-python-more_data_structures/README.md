@@ -86,10 +86,18 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **7. Update dictionary**
+
   - [7-update_dictionary.py](./7-update_dictionary.py): Python function that replaces or
     adds key/value pairs in a dictionary.
   - The parameter `key` is always a string.
   - The parameter `value` is any type.
   - If a key exists in the dictionary, the value is replaced.
   - If a key does not exist in the dictionary, it is created.
+  - Without importing modules.
+
+* **8. Simple delete by key**
+  - [8-simple_delete.py](./8-simple_delete.py): Python function that deletes a key
+    in a dictionary.
+  - The paramter `key` is always a string.
+  - If the key does not exist, the dictionary does not change.
   - Without importing modules.
