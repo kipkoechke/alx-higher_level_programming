@@ -144,9 +144,17 @@ Prototypes for functions written in this project:
   - Without importing modules.
 
 * **14. Squared by using map**
+
   - [101-square_matrix_map.py](./101-square_matrix_map.py): Python function that computes
     the square value of all integers of a matrix using `map`.
   - The parameter `matrix` is a two-dimensional array.
   - Returns a new matrix of the same size as `matrix` with each value squared.
   - The initial matrix is not modified.
   - Without using loops or importing modules.
+
+* **15. Delete by value**
+  - [102-complex_delete.py](./102-complex_delete.py): Python function that deletes keys with
+    a specific value in a dictionary.
+  - If the value does not exists, the dictionary is not changed.
+  - All keys having the searched value are deleted.
+  - Without importing modules.
