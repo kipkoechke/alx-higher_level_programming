@@ -1,12 +1,15 @@
 #!/usr/bin/python3
-# 5-number_keys.py
+# 6-print_sorted_dictionary.py
 
 
-def number_keys(a_dictionary):
+def print_sorted_dictionary(a_dictionary):
     """
-    Count and return the number of keys in a dictionary.
+    Return a string representation of a dictionary sorted by keys.
 
-    :param a_dictionary: The dictionary to count keys from.
-    :return: The number of keys in the dictionary.
+    Args:
+        a_dictionary (dict): The dictionary to sort.
+
+    Returns:
+        str: A string representation of the sorted dictionary.
     """
-    return len(a_dictionary)
+    [print(f"{k}: {a_dictionary[k]}") for k in sorted(a_dictionary)]
