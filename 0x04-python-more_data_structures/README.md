@@ -102,3 +102,17 @@ What do these lines print?
 - [ ] 'id'
 - [ ] John
 - [x] 89
+
+#### Question #7
+
+What do these lines print?
+
+```
+>>> for i in [1, 3, 4, 2]:
+>>>     print(i, end=" ")
+```
+
+- [x] 1 2 3 4
+- [ ] 0 1 2 3
+- [ ] 1 2 3 4
+- [ ] 1 2 4 3 0
