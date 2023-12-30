@@ -136,8 +136,17 @@ Prototypes for functions written in this project:
   - If the parameter `roman_string` is not a string or `None`, the function returns `0`.
 
 * **13. Weighted average!**
+
   - [100-weight_average.py](./100-weight_average.py): Python function that returns the
     weighted average of all integers in a list of tuples.
   - Tuple format: `(<score>, <weight>)`.
   - If the list is empty - returns `0`.
   - Without importing modules.
+
+* **14. Squared by using map**
+  - [101-square_matrix_map.py](./101-square_matrix_map.py): Python function that computes
+    the square value of all integers of a matrix using `map`.
+  - The parameter `matrix` is a two-dimensional array.
+  - Returns a new matrix of the same size as `matrix` with each value squared.
+  - The initial matrix is not modified.
+  - Without using loops or importing modules.
