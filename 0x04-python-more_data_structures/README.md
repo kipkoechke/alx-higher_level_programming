@@ -130,3 +130,18 @@ What do these lines print?
 - [ ] 0 1 2 3
 - [ ] 0 1 2 3 5
 - [x] 1 2 3 4
+
+#### Question #9
+
+What do these lines print?
+
+```
+>>> a = { 'id': 89, 'name': "John", 'projects': [1, 2, 3, 4] }
+>>> a.get('projects')[3]
+```
+
+- [ ] 1 2 3 4
+- [x] 4
+- [ ] [4]
+- [ ] [3]
+- [ ] 3
