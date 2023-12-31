@@ -23,4 +23,4 @@ if __name__ == "__main__":
     b = int(sys.argv[3])
 
     # Perform the requested operation and display the result.
-    print("{} {} {} = {}".format(a, sys.argv[2], b, ops[sys.argv[2]](a, b)))
+    print("{a} {sys.argv[2]} {b} = {ops[sys.argv[2]](a, b)}")
