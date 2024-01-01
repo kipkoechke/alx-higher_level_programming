@@ -118,3 +118,25 @@ class User:
 - [ ] A public instance attribute
 - [ ] A public class attribute
 - [ ] A protected instance attribute
+
+#### Question #5
+
+In the following code, what is `User`
+
+```python
+class User:
+    id = 89
+    name = "no name"
+    __password = None
+
+    def __init__(self, new_name=None):
+        self.is_new = True
+        if new_name is not None:
+            self.name = new_name
+```
+
+- [ ] An attribute
+- [x] A class
+- [ ] A string
+- [ ] An instance
+- [ ] A method
