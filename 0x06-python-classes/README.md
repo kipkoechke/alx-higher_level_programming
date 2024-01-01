@@ -149,3 +149,10 @@ Node object`.
     - Instantiation `def __init__(self):`
     - Public instance method `def sorted_insert(self, value):` that inserts a
       new `Node` into the correct sorted position in the list increasing order).
+
+* **8. Print Square instance**
+
+  - [101-square.py](./101-square.py): Python class `Square` that defines a square. Builds on
+    [6-square.py](./6-square.py) with:
+    - Method `__str__` to set printing of a `Square` instance equivalent to
+      `my_print()`.
