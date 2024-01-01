@@ -74,7 +74,18 @@ Each module, class, and method must contain docstring as comments see [example](
   - [0-square.py](./0-square.py): Python class `Square` that defines a square.
 
 * **1. Square with size**
+
   - [1-square.py](./1-square.py): Python class `Square` that defines a square. Builds on
     [0-square.py](./0-square.py) with:
     - Private instance attribute `size`.
     - Instantiation with `size`.
+
+* **2. Size validation**
+
+  - [2-square.py](./2-square.py): Python class `Square` that defines a square. Builds on
+    [1-square.py](./1-square.py) with:
+    - Instantiation with optional `size`: `def __init__(self, size=0):`
+  - If a provided `size` attribute is not an integer, a `TypeError` exception
+    is raised with the message `must be an integer`.
+  - If a provided `size` attribute is less than `0`, a `ValueError` exception
+    is raised with the message `size must be >= 0`.
