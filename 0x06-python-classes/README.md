@@ -112,3 +112,16 @@ Each module, class, and method must contain docstring as comments see [example](
     - Public instance method `def my_print(self):` that prints the square
       with the character `#` to standard output (if `size` == 0 -> prints an empty
       line).
+
+* **6. Coordinates of a square**
+
+  - [6-square.py](./6-square.py): Python class `Square` that defines a square. Builds on
+    [5-square.py](./5-square.py) with:
+    - Private instance attribute `position`.
+    - Property `def position(self):` to retreive `position`.
+    - Property setter `def position(self, value):` to set `position`.
+    - Instantiation with optional `size` and `position`:
+      `def __init__(self, size=0, position=(0, 0)):`
+  - If a provided `position` attribute is not a tuple of two integers, a
+    `TypeError` exception is raised with the message `position must be a tuple of
+2 positive integers`.
