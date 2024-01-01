@@ -125,3 +125,27 @@ Each module, class, and method must contain docstring as comments see [example](
   - If a provided `position` attribute is not a tuple of two integers, a
     `TypeError` exception is raised with the message `position must be a tuple of
 2 positive integers`.
+
+* **7. Singly linked list**
+
+  - [100-singly_linked_list.py](./100-singly_linked_list.py): Python classes `Node`
+    and `SinglyLinkedList` that define a node of a singly-linked list and a singly-linked
+    list. The class `Node` is defined with:
+    - Private instance attribute `data`.
+    - Property `def data(self):` to set `data`.
+    - Property setter `def data(self, value):` to set `data`.
+    - Private instance attribute `next_node`.
+    - Property `def next_node(self):` to set `next_node`.
+    - Property `def next_node(self, value):` to set `next_node`.
+    - Instantiation with `data` and `next_node`:
+      `def __init__(self, data, next_node=None):`
+  - If a provided `data` attribute is not an integer, a `TypeError`
+    exception is raised with the message `data must be an integer`.
+  - If a provided `next_node` attribute is not a `Node` or `None`, a
+    `TypeError` exception is raised with the message `next_node must be a
+Node object`.
+  - The class `SinglyLinkedList` is defined with:
+    - Private instance attribute `head`.
+    - Instantiation `def __init__(self):`
+    - Public instance method `def sorted_insert(self, value):` that inserts a
+      new `Node` into the correct sorted position in the list increasing order).
