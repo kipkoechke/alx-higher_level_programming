@@ -43,3 +43,9 @@ By the end of this session, I was able to [explain to anyone](https://fs.blog/fe
 - [x] What is the `__dict__` of a class and/or instance of a class and what does it contain
 - [x] How does Python find the attributes of an object or class
 - [x] How to use the getattr function
+
+## More info
+
+### Documentation is mandatory
+
+Each module, class, and method must contain docstring as comments see [example](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
