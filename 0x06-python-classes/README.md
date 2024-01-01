@@ -96,3 +96,11 @@ Each module, class, and method must contain docstring as comments see [example](
     [2-square.py](./2-square.py) with:
     - Public instance attribute `def area(self):` that returns the current
       square area.
+
+* **4. Access and update private attribute**
+
+  - [4-square.py](./4-square.py): Python class `Square` that defines a square. Builds on
+    [3-square.py](./3-square.py) with:
+    - Property `def size(self):` to retrieve the private instance
+      attribute `self`.
+    - Property setter `def size(self, value):` to set `self`.
