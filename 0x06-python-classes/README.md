@@ -148,7 +148,7 @@ Node object`.
     - Private instance attribute `head`.
     - Instantiation `def __init__(self):`
     - Public instance method `def sorted_insert(self, value):` that inserts a
-      new `Node` into the correct sorted position in the list increasing order).
+      new `Node` into the correct sorted position in the list increasing order.
 
 * **8. Print Square instance**
 
@@ -156,3 +156,11 @@ Node object`.
     [6-square.py](./6-square.py) with:
     - Method `__str__` to set printing of a `Square` instance equivalent to
       `my_print()`.
+
+* **9. Compare 2 squares**
+
+  - [102-square.py](./102-square.py): Python class `Square` that defines a square. Builds on
+    [101-square.py](./101-square.py) with:
+    - Methods `__eq__`, `__ne__`, `__lt__`, `__le__`, `__gt__`, and `__ge__`,
+      to enable usage of `Square` instances with logical operators `==`, `!=`, `<`,
+      `<=`, `>`, and `>=`, respectively, based on the square area.
