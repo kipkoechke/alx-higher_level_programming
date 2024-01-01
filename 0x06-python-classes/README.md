@@ -72,3 +72,9 @@ Each module, class, and method must contain docstring as comments see [example](
 
 - **0. My first square**
   - [0-square.py](./0-square.py): Python class `Square` that defines a square.
+
+* **1. Square with size**
+  - [1-square.py](./1-square.py): Python class `Square` that defines a square. Builds on
+    [0-square.py](./0-square.py) with:
+    - Private instance attribute `size`.
+    - Instantiation with `size`.
