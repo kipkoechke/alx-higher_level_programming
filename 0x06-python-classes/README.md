@@ -89,3 +89,10 @@ Each module, class, and method must contain docstring as comments see [example](
     is raised with the message `must be an integer`.
   - If a provided `size` attribute is less than `0`, a `ValueError` exception
     is raised with the message `size must be >= 0`.
+
+* **3. Area of a square**
+
+  - [3-square.py](./3-square.py): Python class `Square` that defines a square. Builds on
+    [2-square.py](./2-square.py) with:
+    - Public instance attribute `def area(self):` that returns the current
+      square area.
