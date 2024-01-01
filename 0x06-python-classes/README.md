@@ -104,3 +104,11 @@ Each module, class, and method must contain docstring as comments see [example](
     - Property `def size(self):` to retrieve the private instance
       attribute `self`.
     - Property setter `def size(self, value):` to set `self`.
+
+* **5. Printing a square**
+
+  - [5-square.py](./5-square.py): Python class `Square` that defines a square. Builds on
+    [4-square.py](./4-square.py) with:
+    - Public instance method `def my_print(self):` that prints the square
+      with the character `#` to standard output (if `size` == 0 -> prints an empty
+      line).
