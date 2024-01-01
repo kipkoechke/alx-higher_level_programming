@@ -164,3 +164,8 @@ Node object`.
     - Methods `__eq__`, `__ne__`, `__lt__`, `__le__`, `__gt__`, and `__ge__`,
       to enable usage of `Square` instances with logical operators `==`, `!=`, `<`,
       `<=`, `>`, and `>=`, respectively, based on the square area.
+
+* **10. ByteCode -> Python #5**
+
+  * [103-magic_class.py](./103-magic_class.py): Python function matching exactly a bytecode
+  provided by ALX Software Engineering.
