@@ -67,3 +67,8 @@ Each module, class, and method must contain docstring as comments see [example](
 ## Tests :heavy_check_mark:
 
 - [tests](./tests): Folder of test files provided by ALX Software Engineering.
+
+## Tasks :page_with_curl:
+
+- **0. My first square**
+  - [0-square.py](./0-square.py): Python class `Square` that defines a square.
