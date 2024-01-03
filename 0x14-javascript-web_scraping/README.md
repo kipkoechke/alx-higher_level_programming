@@ -57,3 +57,10 @@ At the end of this project, you are expected to  be able to [explain to anyone](
   * [4-starwars_count.js](./4-starwars_count.js): JavaScript script that uses the
   Star Wars API to print the number of movies featuring the character "Wedge Antilles".
   * Usage: `./4-starwars_count.js http://swapi.co/api/films/`.
+
+* **5. Loripsum**
+  * [5-request_store.js](./5-request_store.js): JavaScript script that stores the
+  contents of a webpage in a file.
+  * Usage: `./5-request_store.js <URL to get> <file path to store content in>`.
+
+
