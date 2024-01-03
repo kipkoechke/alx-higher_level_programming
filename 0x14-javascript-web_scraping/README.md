@@ -8,4 +8,11 @@
 
 Web scraping with JavaScript is a technique that involves writing code in JavaScript to extract data from websites. Let's use ```request``` library to make API calls. 
 
+## Resources
+
+1. [Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+2. [The workflow of accessing the attributes of a simply-created JSON object by Jimmy Tran from Cohort 1 - San Francisco](https://medium.com/@vietkieutie/the-workflow-of-accessing-the-attributes-of-a-simply-created-json-object-82a5b33e2319)
+3. [Requests module](https://github.com/request/request)
+4. [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
+
 
