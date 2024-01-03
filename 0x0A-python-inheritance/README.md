@@ -128,3 +128,7 @@ than 0`.
   - [11-square.py](./11-square.py): Python class `Square` that inherits from `Rectangle`
     ([9-rectangle.py](./9-rectangle.py)). Builds on [10-square.py](./10-square.py) with: - Special method `__str__` to print squares in the format `[Square]
 <width>/<height>`.
+
+* **12. My integer**
+  - [100-my_int.py](./100-my_int.py): Python class `MyInt` that inherits from `int`. Includes:
+    - Inversion of the `==` and `!=` operators.
