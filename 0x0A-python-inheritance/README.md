@@ -14,3 +14,19 @@ Inheritance is a powerful feature of object-oriented programming (OOP) that allo
 4. [Learn to program 10: Inheritance](https://www.youtube.com/watch?v=d8kCdLCi6Lk)
 5. [Youtube](https://www.youtube.com/results?search_query=Inheritance+in+python)
 6. [Google](https://www.google.com/search?q=Inheritance+python)
+
+## Learning objectives
+
+At the end of the project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) **without the help of Google** the following concepts
+
+- [x] What is a superclass, baseclass or parentclass
+- [x] What is a subclass
+- [x] How to list all attributes and methods of a class or instance
+- [x] When can an instance have new attributes
+- [x] How to inherit class from another
+- [x] How to define a class with multiple base classes
+- [x] What is the default class every class inherit from
+- [x] What is the default class every class inherit from
+- [x] Which attributes or methods are available by heritage to subclasses
+- [x] What is the purpose of inheritance
+- [x] What are, when and how to use `isinstance`, `issubclass`, `type` and `super` built-in functions
