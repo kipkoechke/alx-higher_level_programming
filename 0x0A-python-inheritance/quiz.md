@@ -160,3 +160,32 @@ print(b.id)
 - [x] 1
 - [ ] None
 - [ ] 0
+
+#### Question #6
+
+What do these lines print?
+
+```python
+class Base():
+    """ My base class """
+
+    __nb_instances = 0
+
+    def __init__(self):
+        Base.__nb_instances += 1
+        self.id = Base.__nb_instances
+
+class User(Base):
+    """ My User class """
+
+    def __init__(self):
+        super().__init__()
+        self.id += 99
+
+u = User()
+print(u.id)
+```
+
+- [x] 1
+- [ ] 99
+- [ ] 100
