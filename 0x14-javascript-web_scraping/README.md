@@ -47,4 +47,8 @@ At the end of this project, you are expected to  be able to [explain to anyone](
   * Usage: `./2-statuscode.js <URL to GET>`.
   * Output: `code: <status code>`.
 
-
+* **3. Star wars movie title**
+  * [3-starwars_title.js](./3-starwars_title.js): JavaScript script that uses the
+  Star Wars API to print the title of the Star Wars movie with a given integer episode
+  number.
+  * Usage: `./3-starwars_title.js <3-starwars_title.js>`.
