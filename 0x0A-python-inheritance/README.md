@@ -53,3 +53,9 @@ Prototypes for functions written in this project:
 | `3-is_kind_of_class.py` | `def is_kind_of_class(obj, a_class):` |
 | `4-inherits_from.py`    | `def inherits_from(obj, a_class):`    |
 | `101-add_attribute.py`  | `def add_attribute(obj, att, value):` |
+
+## Tasks :page_with_curl:
+
+- **0. Lookup**
+  - [0-lookup.py](./0-lookup.py): Python function that returns a list of available attributes
+    and methods of an objects.
