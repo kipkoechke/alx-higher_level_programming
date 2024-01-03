@@ -59,3 +59,8 @@ Prototypes for functions written in this project:
 - **0. Lookup**
   - [0-lookup.py](./0-lookup.py): Python function that returns a list of available attributes
     and methods of an objects.
+
+* **1. My list**
+  - [1-my_list.py](./1-my_list.py): Python class `MyList` that inherits from `list`. Includes:
+    - Public instance method `def print_sorted(self):` that prints the list in
+      ascending sorted order (assumes all list elements are `int`s).
