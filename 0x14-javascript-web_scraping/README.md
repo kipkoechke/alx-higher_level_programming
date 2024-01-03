@@ -19,4 +19,11 @@ Web scraping with JavaScript is a technique that involves writing code in JavaSc
 
 At the end of this project, you are expected to  be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) __without the help of Google__:
 
+### General
+
+* [X] Why JavaScript programming is amazing :exploding_head: :partying_face:
+* [X] How to manipulate JSON data
+* [X] How to use ```request``` and fetch API
+* [X] How to read and write a file using ```fs``` module
+
 
