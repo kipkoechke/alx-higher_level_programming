@@ -73,4 +73,10 @@ At the end of this project, you are expected to  be able to [explain to anyone](
   that uses the Star Wars API to print all characters featured in a given movie.
   * Usage: `./100-starwars_characters.js <movie ID>`.
 
+* **8. Right order**
+  * [101-starwars_characters.js](./101-starwars_characters.js): JavaScript script
+  that uses the Star Wars API to print all characters featured in a given movie in
+  the same order as they are listed in the `characters` list of the `/films/` response.
+  * Usage: `./101-starwars_characters.js <movie ID>`.
+
 
