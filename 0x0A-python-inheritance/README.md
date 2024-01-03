@@ -30,3 +30,7 @@ At the end of the project, you are expected to be able to [explain to anyone](ht
 - [x] Which attributes or methods are available by heritage to subclasses
 - [x] What is the purpose of inheritance
 - [x] What are, when and how to use `isinstance`, `issubclass`, `type` and `super` built-in functions
+
+## Quizes
+
+[Quiz](./quiz.md)
