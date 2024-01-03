@@ -67,5 +67,10 @@ Prototypes for functions written in this project:
       ascending sorted order (assumes all list elements are `int`s).
 
 * **2. Exact same object**
+
   - [2-is_same_class.py](./2-is_same_class.py): Python function that returns `True` if an object is
     exactly an instance of a specified class; otherwise `False`.
+
+* **3. Same class or inherit from**
+  - [3-is_kind_of_class.py](./3-is_kind_of_class.py): Python function that returns `True` if an object is
+    an instance or inherited instance of a specified class; otherwise `False`.
