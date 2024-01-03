@@ -41,4 +41,10 @@ At the end of this project, you are expected to  be able to [explain to anyone](
   file.
   * Usage: `./1-writeme.js <file path> <string to write>`.
 
+* **2. Status code**
+  * [2-statuscode.js](./2-statuscode.js): JavaScript script that displays the
+  stauts code of a `GET` request using the `request` framework.
+  * Usage: `./2-statuscode.js <URL to GET>`.
+  * Output: `code: <status code>`.
+
 
