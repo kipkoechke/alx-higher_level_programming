@@ -83,4 +83,11 @@ Prototypes for functions written in this project:
     otherwise `False`.
 
 * **5. Geometry module**
+
   - [5-base_geometry.py](./5-base_geometry.py): An empty Python class `BaseGeometry`.
+
+* **6. Improve Geometry**
+  - [6-base_geometry.py](./6-base_geometry.py): Python class `BaseGeometry`. Builds on
+    [5-base_geometry.py](./5-base_geometry.py) with:
+    - Public instance method `def area(self):` that raises an `Exception` with
+      the message `area() is not implemented`.
