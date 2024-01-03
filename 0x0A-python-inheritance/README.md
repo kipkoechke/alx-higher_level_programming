@@ -77,6 +77,10 @@ Prototypes for functions written in this project:
     an instance or inherited instance of a specified class; otherwise `False`.
 
 * **4. Only sub class of**
+
   - [4-inherits_from.py](./4-inherits_from.py): Python function that returns `True` if an object is
     an inherited instance (either directly or indirectly) from a specified class;
     otherwise `False`.
+
+* **5. Geometry module**
+  - [5-base_geometry.py](./5-base_geometry.py): An empty Python class `BaseGeometry`.
