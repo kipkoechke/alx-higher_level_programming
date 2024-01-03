@@ -94,13 +94,16 @@ Prototypes for functions written in this project:
       the message `area() is not implemented`.
 
 * **7. Integer validator**
+
   - [7-base_geometry.py](./7-base_geometry.py): Python class `BaseGeometry`. Builds on
-    [6-base_geometry.py](./6-base_geometry.py) with:
-    - Public instance method `def integer_validator(self, name, value):` that
-      validates the parameter `value`.
-    - Assumes the parameter `name` is always a string.
-    - The parameter `value` must be an `int`, otherwise, a `TypeError` exception
-      is raised with the message `<name> must be an integer`.
-    - The parameter `value` must be greater than `0`, otherwise, a
-      `ValueError` exception is raised with the message `<value> must be greater
+    [6-base_geometry.py](./6-base_geometry.py) with: - Public instance method `def integer_validator(self, name, value):` that
+    validates the parameter `value`. - Assumes the parameter `name` is always a string. - The parameter `value` must be an `int`, otherwise, a `TypeError` exception
+    is raised with the message `<name> must be an integer`. - The parameter `value` must be greater than `0`, otherwise, a
+    `ValueError` exception is raised with the message `<value> must be greater
 than 0`.
+
+* **8. Rectangle**
+  - [8-rectangle.py](./8-rectangle.py): Python class `Rectangle` that inherits from `BaseGeometry`
+    ([7-base_geometry.py](./7-base_geometry.py)). Includes:
+    - Private attributes `width` and `height` - validated with `integer_validator`.
+    - Instantiation with `width` and `height`: `def __init__(self, width, height):`
