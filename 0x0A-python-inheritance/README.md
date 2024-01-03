@@ -34,3 +34,10 @@ At the end of the project, you are expected to be able to [explain to anyone](ht
 ## Quizes
 
 [Quiz](./quiz.md)
+
+## Tests :heavy_check_mark:
+
+- [tests](./tests): Folder of test files. Includes both Holberton-provided ones
+  as well as the following two independently-developed:
+  _ [1-my_list.txt](./1-my_list.txt)
+  _ [7-base_geometry.txt](./7-base_geometry.txt)
