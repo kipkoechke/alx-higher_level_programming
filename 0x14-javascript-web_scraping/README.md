@@ -15,4 +15,8 @@ Web scraping with JavaScript is a technique that involves writing code in JavaSc
 3. [Requests module](https://github.com/request/request)
 4. [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
 
+## Learning objectives
+
+At the end of this project, you are expected to  be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) __without the help of Google__:
+
 
