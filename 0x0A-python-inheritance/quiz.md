@@ -87,3 +87,27 @@ print(u.id)
 - [ ] None
 - [ ] 0
 - [ ] 2
+
+#### Question #3
+
+What do these lines print?
+
+```python
+class Base():
+    """ My base class """
+
+    __nb_instances = 0
+
+    def __init__(self):
+        Base.__nb_instances += 1
+        self.id = Base.__nb_instances
+
+for i in range(3):
+    b = Base()
+print(b.id)
+```
+
+- [ ] 4
+- [ ] None
+- [x] 3
+- [ ] 2
