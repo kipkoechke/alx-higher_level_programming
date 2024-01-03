@@ -41,3 +41,15 @@ At the end of the project, you are expected to be able to [explain to anyone](ht
   as well as the following two independently-developed:
   _ [1-my_list.txt](./1-my_list.txt)
   _ [7-base_geometry.txt](./7-base_geometry.txt)
+
+## Function Prototypes :floppy_disk:
+
+Prototypes for functions written in this project:
+
+| File                    | Prototype                             |
+| ----------------------- | ------------------------------------- |
+| `0-lookup.py`           | `def lookup(obj):`                    |
+| `2-is_same_class.py`    | `def is_same_class(obj, a_class):`    |
+| `3-is_kind_of_class.py` | `def is_kind_of_class(obj, a_class):` |
+| `4-inherits_from.py`    | `def inherits_from(obj, a_class):`    |
+| `101-add_attribute.py`  | `def add_attribute(obj, att, value):` |
