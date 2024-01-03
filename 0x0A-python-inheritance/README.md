@@ -110,6 +110,14 @@ than 0`.
     - Instantiation with `width` and `height`: `def __init__(self, width, height):`
 
 * **9. Full rectangle**
+
   - [9-rectangle.py](./9-rectangle.py): Python class `Rectangle` that inherits from `BaseGeometry`
     ([7-base_geometry.py](./7-base_geometry.py)). Builds on [8-rectangle.py](./8-rectangle.py) with: - Implementation of the method `area()`. - Special method `__str__` to print `Rectangle`s in the format `[Rectangle]
 <width>/<height>`.
+
+* **10. Square #1**
+  - [10-square.py](./10-square.py): Python class `Square` that inherits from `Rectangle`
+    ([9-rectangle.py](./9-rectangle.py)). Includes:
+    - Private attribute `size` - validated with `integer_validator`.
+    - Instantiation with `size`: `def __init__(self, size):`.
+    - Implementation of the `area()` method.
