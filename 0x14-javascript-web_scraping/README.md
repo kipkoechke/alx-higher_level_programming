@@ -29,4 +29,9 @@ At the end of this project, you are expected to  be able to [explain to anyone](
 * [X] How to use ```request``` and fetch API
 * [X] How to read and write a file using ```fs``` module
 
+## Tasks :page_with_curl:
 
+* **0. Readme**
+  * [0-readme.js](./0-readme.js): JavaScript script that reads and prints the
+  contents of a file.
+  * Usage: `./0-readme.js <file path>`.
