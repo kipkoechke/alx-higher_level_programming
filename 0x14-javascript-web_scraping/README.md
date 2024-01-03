@@ -52,3 +52,8 @@ At the end of this project, you are expected to  be able to [explain to anyone](
   Star Wars API to print the title of the Star Wars movie with a given integer episode
   number.
   * Usage: `./3-starwars_title.js <3-starwars_title.js>`.
+
+* **4. Star wars Wedge Antilles**
+  * [4-starwars_count.js](./4-starwars_count.js): JavaScript script that uses the
+  Star Wars API to print the number of movies featuring the character "Wedge Antilles".
+  * Usage: `./4-starwars_count.js http://swapi.co/api/films/`.
