@@ -35,3 +35,10 @@ At the end of this project, you are expected to  be able to [explain to anyone](
   * [0-readme.js](./0-readme.js): JavaScript script that reads and prints the
   contents of a file.
   * Usage: `./0-readme.js <file path>`.
+
+* **1. Write me**
+  * [1-writeme.js](./1-writeme.js): JavaScript script that writes a string to a
+  file.
+  * Usage: `./1-writeme.js <file path> <string to write>`.
+
+
