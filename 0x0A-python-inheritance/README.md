@@ -130,5 +130,12 @@ than 0`.
 <width>/<height>`.
 
 * **12. My integer**
+
   - [100-my_int.py](./100-my_int.py): Python class `MyInt` that inherits from `int`. Includes:
     - Inversion of the `==` and `!=` operators.
+
+* **13. Can I?**
+  - [101-add_attribute.py](./101-add_attribute.py): Python function that adds a new attribute to an
+    object if possible.
+    - If an attribute cannot be added, a `TypeError` exception is raised with the
+      message `can't add new attribute`.
