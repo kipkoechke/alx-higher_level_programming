@@ -1,2 +1,31 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+
 > Python inheritance quizes
+
+#### Question #0
+
+What do these lines print?
+
+```python
+class Base():
+    """ My base class """
+
+    __nb_instances = 0
+
+    def __init__(self):
+        Base.__nb_instances += 1
+        self.id = Base.__nb_instances
+
+class User(Base):
+    """ My User class """
+    pass
+
+b = Base()
+u = User()
+print(u.id)
+```
+
+- [x] 2
+- [ ] 0
+- [ ] 1
+- [ ] 3
