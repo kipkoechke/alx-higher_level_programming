@@ -1,27 +1,20 @@
-request = require("request");
+#!/usr/bin/node
+const request = require("request");
+const url = "https://swapi-api.alx-tools.com/api/films/" + process.argv[2];
+request(url, function (error, response, body) {
+  if (!error) {
+    let characters = JSON.parse(body).characters;
+    printCharacters(characters, 0);
+  }
+});
 
 function printCharacters(characters, index) {
-  if (index < characters.length) {
-    request(
-      { url: characters[index], json: true },
-      function (error, response, body) {
-        if (!error && response.statusCode == 200) {
-          console.log(body.name);
-          printCharacters(characters, index + 1);
-        }
-      }
-    );
-  }
-}
-
-function main() {
-  const movieId = process.argv[2];
-  request(
-    { url: `https://swapi.dev/api/films/${movieId}/`, json: true },
-    function (error, response, body) {
-      if (!error && response.statusCode == 200) {
-        printCharacters(body.characters, 0);
+  request(characters[index], function (error, response, body) {
+    if (!error) {
+      console.log(JSON.parse(body).name);
+      if (index + 1 < characters.length) {
+        printCharacters(characters, index + 1);
       }
     }
-  );
+  });
 }
