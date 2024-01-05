@@ -1,1 +1,3 @@
-Python - Almost a circle
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+
+> Python - Almost a circle
