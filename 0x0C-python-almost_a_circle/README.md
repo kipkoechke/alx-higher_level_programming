@@ -33,3 +33,14 @@ You will also learn about
 2. [JSON ecoder and decoder](https://docs.python.org/3/library/json.html)
 3. [unittest module](https://docs.python.org/3.4/library/unittest.html#module-unittest)
 4. [Python tests cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
+
+## Learning objectives
+
+By the end of this project you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) the following concepts **Without the help fo Google**
+
+- [x] What is Unit testing and how to implement it in a large project
+- [x] How to serialize and deserialize a Class
+- [x] How to write and read a JSON file
+- [x] What is `*args` and how to use it
+- [x] What is `**kwargs` and how to use it
+- [x] How to handle named arguments in a function
