@@ -90,4 +90,9 @@ class Square(Rectangle):
         Returns:
             str: A string containing Square information.
         """
-        return "[Square] ({}) {}/{} - {}".format(self.id, self.x, self.y, self.width)
+        return "[Square] ({}) {}/{} - {}".format(
+            self.id,
+            self.x,
+            self.y,
+            self.width,
+        )
