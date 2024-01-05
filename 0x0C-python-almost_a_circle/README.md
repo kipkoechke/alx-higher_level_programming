@@ -52,3 +52,5 @@ By the end of this project you should be able to [explain to anyone](https://fs.
   - [test_base.py](./tests/test_models/test_base.py)
   - [test_rectangle.py](./tests/test_models/test_rectangle.py)
   - [test_square.py](./tests/test_models/test_square.py)
+
+## Classes :cl:
