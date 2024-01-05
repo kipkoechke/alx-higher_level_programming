@@ -44,3 +44,11 @@ By the end of this project you should be able to [explain to anyone](https://fs.
 - [x] What is `*args` and how to use it
 - [x] What is `**kwargs` and how to use it
 - [x] How to handle named arguments in a function
+
+## Tests :heavy_check_mark:
+
+- [tests/test_models](./tests/test_models): Folder containing the following
+  independently-developed test files:
+  - [test_base.py](./tests/test_models/test_base.py)
+  - [test_rectangle.py](./tests/test_models/test_rectangle.py)
+  - [test_square.py](./tests/test_models/test_square.py)
