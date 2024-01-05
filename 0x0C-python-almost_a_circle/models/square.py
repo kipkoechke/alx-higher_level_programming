@@ -3,6 +3,7 @@
 """Defines a square class."""
 from models.rectangle import Rectangle
 
+
 class Square(Rectangle):
     """Represents a square.
 
@@ -26,7 +27,7 @@ class Square(Rectangle):
 
     @property
     def size(self):
-        """Get or set the size of the Square. Both width and height are affected."""
+        """Get the size of the Square. Both width and height are affected."""
         return self.width
 
     @size.setter
@@ -81,12 +82,7 @@ class Square(Rectangle):
 
     def to_dictionary(self):
         """Convert the Square attributes to a dictionary."""
-        return {
-            "id": self.id,
-            "size": self.width,
-            "x": self.x,
-            "y": self.y
-        }
+        return {"id": self.id, "size": self.width, "x": self.x, "y": self.y}
 
     def __str__(self):
         """Return the string representation of a Square.
@@ -94,5 +90,4 @@ class Square(Rectangle):
         Returns:
             str: A string containing Square information.
         """
-        return "[Square] ({}) {}/{} - {}".format(self.id, self.x, self.y,
-                                                 self.width)
+        return "[Square] ({}) {}/{} - {}".format(self.id, self.x, self.y, self.width)
