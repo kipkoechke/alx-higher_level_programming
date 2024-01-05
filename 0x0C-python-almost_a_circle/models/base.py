@@ -35,7 +35,7 @@ class Base:
 
         Args:
            list_dictionaries (list): A list of dictionaries.
-            
+
         Returns:
             str: A JSON string representation of the list of dictionaries.
         """
@@ -83,7 +83,7 @@ class Base:
 
         Args:
             **dictionary (dict): Key/value pairs of attributes to initialize.
-        
+
         Returns:
             cls: An instance of the class with attributes from the dictionary.
         """
@@ -151,8 +151,9 @@ class Base:
                 else:
                     fieldnames = ["id", "size", "x", "y"]
                 list_dicts = csv.DictReader(csvfile, fieldnames=fieldnames)
-                list_dicts = [dict([k, int(v)] for k, v in d.items())
-                              for d in list_dicts]
+                list_dicts = [
+                    dict([k, int(v)] for k, v in d.items()) for d in list_dicts
+                ]
                 return [cls.create(**d) for d in list_dicts]
         except IOError:
             return []
