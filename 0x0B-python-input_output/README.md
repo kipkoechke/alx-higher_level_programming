@@ -84,3 +84,8 @@ Prototypes for functions written in this project:
 
   - [3-write_file.py](./3-write_file.py): Python function that writes a string to a UTF8 text
     file and returns the number of characters written.
+
+* **4. Append to a file**
+
+  - [4-append_write.py](./4-append_write.py): Python function that appends a string to the end of a
+    UTF8 text file and returns the number of characters appended.
