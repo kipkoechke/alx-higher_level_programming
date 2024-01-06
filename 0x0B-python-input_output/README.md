@@ -22,6 +22,24 @@ serialize and deserialize objects with JSON.
 8. [Youtube](https://www.youtube.com/results?search_query=python+I%2FO)
 9. [Python](https://www.google.com/search?q=python+io)
 
+## Learning objectives
+
+By the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) **without the help of google** the following concepts
+
+- [x] Why Python programming is awesome
+- [x] How to open a file
+- [x] How to write text in a file
+- [x] How to read the full content of a file
+- [x] How to read a file line by line
+- [x] How to move the cursor in a file
+- [x] How to make sure a file is closed after using it
+- [x] What is and how to use the with statement
+- [x] What is JSON
+- [x] What is serialization
+- [x] What is deserialization
+- [x] How to convert a Python data structure to a JSON string
+- [x] How to convert a JSON string to a Python data structure
+
 ## Tests :heavy_check_mark:
 
 - [tests](./tests): Folder of test files. Provided by ALX School.
