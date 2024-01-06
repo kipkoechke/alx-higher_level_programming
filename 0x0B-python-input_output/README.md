@@ -89,3 +89,8 @@ Prototypes for functions written in this project:
 
   - [4-append_write.py](./4-append_write.py): Python function that appends a string to the end of a
     UTF8 text file and returns the number of characters appended.
+
+* **5. To JSON string**
+
+  - [5-to_json_string.py](./5-to_json_string.py): Python function that returns the JSON string
+    representation of an object.
