@@ -159,3 +159,14 @@ Prototypes for functions written in this project:
 
   - [100-append_after.py](./100-append_after.py): Python function that inserts a line of text to a
     file after each line containing a specified string.
+
+* **16. Log parsing**
+
+  - [101-stats.py](./101-stats.py): Python script that reads lines from standard input. After
+    every 10 lines or the input of a keyboard interruption (`CTRL + C`), computes the
+    following metrics:
+    - Total file size up that point: `File size: <total size>`
+    - Status code of each read line, printed in ascending order:
+      `<status code>: <number>`
+  - Input format: `<IP Address> - [<date>] "GET /projects/260 HTTP/1.1"
+<status code> <file size>`
