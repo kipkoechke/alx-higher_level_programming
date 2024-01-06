@@ -99,3 +99,8 @@ Prototypes for functions written in this project:
 
   - [6-from_json_string.py](./6-from_json_string.py): Python function that returns the Python object
     represented by a JSON string.
+
+* **7. Save Object to a file**
+
+  - [7-save_to_json_file.py](./7-save_to_json_file.py): Python function that writes an object to a text
+    file using JSON representation.
