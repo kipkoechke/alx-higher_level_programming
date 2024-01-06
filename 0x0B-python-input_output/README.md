@@ -138,3 +138,12 @@ Prototypes for functions written in this project:
       dictionary representation of a `Student` instance.
     - If `attrs` is a list of strings, only the attributes listed are
       represented in the dictionary.
+
+* **13. Student to disk and reload**
+
+  - [13-student.py](./13-student.py): Python class `Student` that defines a student. Builds on
+    [12-student.py](./12-student.py) with:
+    - Public method `def reload_from_json(self, json):` that replaces all
+      attributes of the `Student` instance using the key/value pairs listed in `json`.
+    - The method assumes `json` is a dictionary containing attributes with
+      name/value corresponding to key/value.
