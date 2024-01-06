@@ -104,3 +104,8 @@ Prototypes for functions written in this project:
 
   - [7-save_to_json_file.py](./7-save_to_json_file.py): Python function that writes an object to a text
     file using JSON representation.
+
+* **8. Create object from a JSON file**
+
+  - [8-load_from_json_file.py](./8-load_from_json_file.py): Python function that creates an object from a
+    `.json` file.
