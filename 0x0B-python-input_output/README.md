@@ -79,3 +79,8 @@ Prototypes for functions written in this project:
 
   - [2-read_lines.py](./2-read_lines.py): Python function that prints `n` lines of a UTF8 text
     file to standard output.
+
+* **3. Write to a file**
+
+  - [3-write_file.py](./3-write_file.py): Python function that writes a string to a UTF8 text
+    file and returns the number of characters written.
