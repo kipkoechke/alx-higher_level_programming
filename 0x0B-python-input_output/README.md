@@ -8,6 +8,20 @@ In this project, I practiced file handling in Python. I used the builtin `with`,
 `open`, and `read` functions with the `json` module to read and write files and
 serialize and deserialize objects with JSON.
 
+## Resources
+
+**Read or watch**
+
+1. [Reading and writing files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+2. [8.7 Predefined cleanup actions](https://docs.python.org/3/tutorial/errors.html#predefined-clean-up-actions)
+3. [Dive into python3: Chapter 11. Files](https://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf)
+4. [Json econder and decoder](https://docs.python.org/3/library/json.html)
+5. [Learn to program 8 - Reading and writting files](https://www.youtube.com/watch?v=EukxMIsNeqU)
+6. [Automate the boring stuff with python](https://automatetheboringstuff.com/)
+7. [All about py-file I/O](https://techvidvan.com/tutorials/python-file-read-write/s)
+8. [Youtube](https://www.youtube.com/results?search_query=python+I%2FO)
+9. [Python](https://www.google.com/search?q=python+io)
+
 ## Tests :heavy_check_mark:
 
 - [tests](./tests): Folder of test files. Provided by ALX School.
