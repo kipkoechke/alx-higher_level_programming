@@ -74,3 +74,8 @@ Prototypes for functions written in this project:
 
   - [1-number_of_lines.py](./1-number_of_lines.py): Python function that returns the number of lines
     contained in a text file.
+
+* **2. Read n lines**
+
+  - [2-read_lines.py](./2-read_lines.py): Python function that prints `n` lines of a UTF8 text
+    file to standard output.
