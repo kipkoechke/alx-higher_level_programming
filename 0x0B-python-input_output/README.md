@@ -109,3 +109,8 @@ Prototypes for functions written in this project:
 
   - [8-load_from_json_file.py](./8-load_from_json_file.py): Python function that creates an object from a
     `.json` file.
+
+* **9. Load, add, save**
+
+  - [9-add_item.py](./9-add_item.py): Python script that stores all command line arguments to a
+    Python list saved in the file `add_item.json`.
