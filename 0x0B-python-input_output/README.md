@@ -170,3 +170,13 @@ Prototypes for functions written in this project:
       `<status code>: <number>`
   - Input format: `<IP Address> - [<date>] "GET /projects/260 HTTP/1.1"
 <status code> <file size>`
+
+* **17. Hack the VM**
+
+  - [read_write_heap.py](./read_write_heap.py): Python script that finds and replaces a string in the
+    heap of a running process.
+  - Usage: `read_write_heap.py pid search_string replace_string` where `pid` is
+    the process ID of the running process and strings are represented in ASCII.
+  - Only looks in the heap of the process.
+  - On a usage error, prints an error message to `stdout` and exits with the
+    status code `1`.
