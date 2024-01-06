@@ -147,3 +147,10 @@ Prototypes for functions written in this project:
       attributes of the `Student` instance using the key/value pairs listed in `json`.
     - The method assumes `json` is a dictionary containing attributes with
       name/value corresponding to key/value.
+
+* **14. Pascal's Triangle**
+
+  - [14-pascal_triangle.py](./14-pascal_triangle.py): Python function that returns a list of lists of
+    integers representing Pascal's triangle of size `n`.
+  - Assumes the size parameter `n` is an integer.
+  - If `n` is less than or equal to `0`, returns an empty list.
