@@ -114,3 +114,9 @@ Prototypes for functions written in this project:
 
   - [9-add_item.py](./9-add_item.py): Python script that stores all command line arguments to a
     Python list saved in the file `add_item.json`.
+
+* **10. Class to JSON**
+
+  - [10-class_to_json.py](./10-class_to_json.py): Python function that returns the dictionary
+    description for simple Python data structures (lists, dictionaries, strings,
+    integers and booleans).
