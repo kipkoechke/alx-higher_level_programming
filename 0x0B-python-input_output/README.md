@@ -69,3 +69,8 @@ Prototypes for functions written in this project:
 
   - [0-read_file.py](./0-read_file.py): Python function that prints the contents of a UTF8 text
     file to standard output.
+
+* **1. Number of lines**
+
+  - [1-number_of_lines.py](./1-number_of_lines.py): Python function that returns the number of lines
+    contained in a text file.
