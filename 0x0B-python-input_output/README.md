@@ -94,3 +94,8 @@ Prototypes for functions written in this project:
 
   - [5-to_json_string.py](./5-to_json_string.py): Python function that returns the JSON string
     representation of an object.
+
+* **6. From JSON string to Object**
+
+  - [6-from_json_string.py](./6-from_json_string.py): Python function that returns the Python object
+    represented by a JSON string.
