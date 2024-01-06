@@ -62,3 +62,10 @@ Prototypes for functions written in this project:
 | `10-class_to_json.py`      | `def class_to_json(obj):`                                         |
 | `14-pascal_triangle.py`    | `def pascal_triangle(n):`                                         |
 | `100-append_after.py`      | `def append_after(filename="", search_string="", new_string=""):` |
+
+## Tasks :page_with_curl:
+
+- **0. Read file**
+
+  - [0-read_file.py](./0-read_file.py): Python function that prints the contents of a UTF8 text
+    file to standard output.
