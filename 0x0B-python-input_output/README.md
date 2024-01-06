@@ -154,3 +154,8 @@ Prototypes for functions written in this project:
     integers representing Pascal's triangle of size `n`.
   - Assumes the size parameter `n` is an integer.
   - If `n` is less than or equal to `0`, returns an empty list.
+
+* **15. Search and update**
+
+  - [100-append_after.py](./100-append_after.py): Python function that inserts a line of text to a
+    file after each line containing a specified string.
