@@ -96,3 +96,9 @@ server set up on a container provided by ALX.
     program that finds a peak in a list of unsorted integers.
   - [6-peak.txt](./6-peak.txt): Text file containing the complexity of the
     algorithm.
+
+* **7. Only status code**
+
+  - [100-status_code.sh](./100-status_code.sh): Bash script that sends a `GET`
+    request to a given URL without using pipes, redirections, `;`, or `&&` and
+    displays the status code of the response.
