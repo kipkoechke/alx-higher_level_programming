@@ -13,3 +13,10 @@ how to utilize cookies.
 
 Task six was an algorithm challenge separate from the overall project theme
 completed in Python.
+
+## Resources
+
+**Read or Watch**:
+
+1. [HTTP(Hyper Text Transfer Protocol)](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)(except: “TRACE” Request Method, “CONNECT” Request Method, Language Negotiation and “Options MultiView” and Character Set Negotiation)
+2. [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
