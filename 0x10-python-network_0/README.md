@@ -52,3 +52,12 @@ By the end of this project, you should be able to [explain to anyone](https://fs
 ## Tests :heavy_check_mark:
 
 - [tests](./tests): Folder of test files. Provided by ALX.
+
+## Tasks :page_with_curl:
+
+NOTE: The `curl` behavior in all Bash scripts were written to interact with a
+server set up on a container provided by ALX.
+
+- **0. cURL body size**
+  [0-body_size.sh](./0-body_size.sh): Bash script that sends a `GET` request to
+  a given URL and displays the size of the response body in bytes.
