@@ -83,3 +83,9 @@ server set up on a container provided by ALX.
   - [4-header.sh](./4-header.sh): Bash script that sends a `GET` request to a
     given URL with a header variable `X-HolbertonSchool-User-Id=98` and displays
     the response body.
+
+* **5. cURL POST parameters**
+
+  - [5-post_params.sh](./5-post_params.sh): Bash script that sends a `POST`
+    request to a given URL with the variables `email=hr@holbertonschool.com` and
+    `subject=I will always be here for PLD` and displays the response body.
