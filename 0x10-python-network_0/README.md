@@ -89,3 +89,10 @@ server set up on a container provided by ALX.
   - [5-post_params.sh](./5-post_params.sh): Bash script that sends a `POST`
     request to a given URL with the variables `email=hr@holbertonschool.com` and
     `subject=I will always be here for PLD` and displays the response body.
+
+* **6. Find a peak**
+
+  - [6-peak.py](./6-peak.py): [Technical interview preparation] - Python
+    program that finds a peak in a list of unsorted integers.
+  - [6-peak.txt](./6-peak.txt): Text file containing the complexity of the
+    algorithm.
