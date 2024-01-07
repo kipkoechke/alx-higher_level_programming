@@ -77,3 +77,9 @@ server set up on a container provided by ALX.
 
   - [3-methods.sh](./3-methods.sh): Bash script that displays all HTTP methods
     the server of a given URL will accept.
+
+* **4. cURL headers**
+
+  - [4-header.sh](./4-header.sh): Bash script that sends a `GET` request to a
+    given URL with a header variable `X-HolbertonSchool-User-Id=98` and displays
+    the response body.
