@@ -48,3 +48,7 @@ By the end of this project, you should be able to [explain to anyone](https://fs
 ## Quiz
 
 [Quizes](./quiz.md)
+
+## Tests :heavy_check_mark:
+
+- [tests](./tests): Folder of test files. Provided by ALX.
