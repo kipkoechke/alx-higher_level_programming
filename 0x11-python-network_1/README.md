@@ -30,3 +30,11 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
 - [x] How to make HTTP `POST/PUT`/etc. request
 - [x] How to fetch JSON resources
 - [x] How to manipulate data from an external service
+
+## Tasks :page_with_curl:
+
+- **0. What's my status? #0**
+
+  - [0-hbtn_status.py](./0-hbtn_status.py): Python script that fetches
+    `https://intranet.hbtn.io/status`.
+  - Uses `urllib`.
