@@ -52,3 +52,10 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
     request to a given URL with a given email, and displays the response body.
   - Usage: `./2-post_email.py <URL> <email>`.
   - Uses `urllib`.
+
+* **3. Error code #0**
+
+  - [3-error_code.py](./3-error_code.py): Python script sends a request to
+    a given URL and displays the response body.
+  - Handles HTTP errors.
+  - Uses `urllib`.
