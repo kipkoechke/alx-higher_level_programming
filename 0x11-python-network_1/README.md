@@ -129,3 +129,13 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
   - Displays the total number and `name` of each result.
   - Manages pagination to display all results.
   - Uses `requests`.
+
+* **13. Star Wars API #2**
+
+  - [102-starwars.py](./102-starwars.py): Python script that sends a search
+    request to the Star Wars API `people` endpoint with a given string.
+  - Usage: `./102-starwars.py <search string>`
+  - Displays the total number and `name` of each result as well as the list of
+    films associated with each character.
+  - Manages pagination to display all results.
+  - Uses `requests`.
