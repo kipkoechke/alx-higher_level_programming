@@ -45,3 +45,10 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
     `X-Request-Id` response header variable of a request to a given URL.
   - Usage: `./1-hbtn_header.py <URL>`
   - Uses `urllib`.
+
+* **2. POST an email #0**
+
+  - [2-post_email.py](./2-post_email.py): Python script that sends a `POST`
+    request to a given URL with a given email, and displays the response body.
+  - Usage: `./2-post_email.py <URL> <email>`.
+  - Uses `urllib`.
