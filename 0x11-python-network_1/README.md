@@ -105,3 +105,11 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
   - Usage: `./9-starwars.py <search string>`
   - Displays the total number and `name` of each result.
   - Uses `requests`.
+
+* **10. My Github!**
+
+  - [10-my_github.py](./10-my_github.py): Python script that takes GitHub
+    credentials (username and password) and uses the Github API to display the
+    corresponding ID.
+  - Usage: `./10-my_github.py <username> <password>`
+  - Uses `requests`.
