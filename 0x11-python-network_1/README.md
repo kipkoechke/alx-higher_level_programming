@@ -139,3 +139,12 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
     films associated with each character.
   - Manages pagination to display all results.
   - Uses `requests`.
+
+* **14. Twitter Auth**
+
+  - [103-search_twitter.py](./103-search_twitter.py): Python script that sends
+    a search request to the Twitter API `search` endpoint with a given string.
+  - Usage: `./103-search_twitter.py <consumer key> <consumer secret> <search string>`
+  - Displays the the top 5 results in the format
+    `[<Tweet ID>] <Tweet text> by <Tweet owner name>`.
+  - Uses `requests`.
