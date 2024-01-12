@@ -120,3 +120,12 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
     the 10 most recent comments of a given GitHub repository using the GitHub API.
   - Usage: `./100-github_commits.py <repository name> <owner name>`
   - Uses `requests`.
+
+* **12. Star Wars API #1**
+
+  - [101-starwars.py](./101-starwars.py): Python script that sends a search
+    request to the Star Wars API `people` endpoint with a given string.
+  - Usage: `./101-starwars.py <search string>`
+  - Displays the total number and `name` of each result.
+  - Manages pagination to display all results.
+  - Uses `requests`.
