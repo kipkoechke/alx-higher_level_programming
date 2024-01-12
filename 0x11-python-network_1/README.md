@@ -65,3 +65,10 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
   - [4-hbtn_status.py](./4-hbtn_status.py): Python script that fetches
     `https://intranet.hbtn.io/status`.
   - Uses `requests`.
+
+* **5. Response header value #1**
+
+  - [5-hbtn_header.py](./5-hbtn_header.py): Python script that displays the
+    `X-Request-Id` response header variable of a request to a given URL.
+  - Usage: `./5-hbtn_header.py <URL>`
+  - Uses `requests`.
