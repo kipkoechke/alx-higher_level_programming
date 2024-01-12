@@ -79,3 +79,10 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
     request to a given URL with a given email, and displays the response body.
   - Usage: `./6-post_email.py <URL> <email>`.
   - Uses `requests`.
+
+* **7. Error code #1**
+
+  - [7-error_code.py](./7-error_code.py): Python script sends a request to
+    a given URL and displays the response body.
+  - Handles HTTP errors.
+  - Uses `requests`.
