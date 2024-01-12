@@ -97,3 +97,11 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
   - If the response body is properly formatted and non-empty, displays it as
     `[<id>] <name>`.
   - Uses `requests`.
+
+* **9. Star Wars API #0**
+
+  - [9-starwars.py](./9-starwars.py): Python script sends a search request to
+    the Star Wars API `people` endpoint with a given string.
+  - Usage: `./9-starwars.py <search string>`
+  - Displays the total number and `name` of each result.
+  - Uses `requests`.
