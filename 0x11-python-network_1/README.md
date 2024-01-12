@@ -59,3 +59,9 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
     a given URL and displays the response body.
   - Handles HTTP errors.
   - Uses `urllib`.
+
+* **4. What's my status? #1**
+
+  - [4-hbtn_status.py](./4-hbtn_status.py): Python script that fetches
+    `https://intranet.hbtn.io/status`.
+  - Uses `requests`.
