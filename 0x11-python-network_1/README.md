@@ -86,3 +86,14 @@ By the end of this project, you are expected to [explain to anyone]() **Without 
     a given URL and displays the response body.
   - Handles HTTP errors.
   - Uses `requests`.
+
+* **8. Search API**
+
+  - [8-json_api.py](./8-json_api.py): Python script that sends a `POST` request
+    to `http://0.0.0.0:5000/search_user` with a letter passed as parameter.
+  - Usage: `./8-json_api.py <letter>`
+  - The letter is sent as the value of the variable `q`.
+  - If no letter is given, sets `q=""`.
+  - If the response body is properly formatted and non-empty, displays it as
+    `[<id>] <name>`.
+  - Uses `requests`.
