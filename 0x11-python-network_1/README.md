@@ -18,3 +18,15 @@ Star Wars API, GitHub API, and Twitter API).
 3. [Requests package](https://pypi.org/project/requests/)
 4. [Youtube](https://www.youtube.com/results?search_query=python+networking+request+and+urllib)
 5. [Google](https://www.google.com/search?q=python+networking+urllib+and+requests)
+
+## Learning objectives
+
+By the end of this project, you are expected to [explain to anyone]() **Without the help of Google**:
+
+- [x] How to fetch internet resources with the Python package `urllib`
+- [x] How to decode `urllib` body response
+- [x] How to use the Python package `requests` #requestsiswaysimplerthanurllib
+- [x] How to make HTTP `GET` request
+- [x] How to make HTTP `POST/PUT`/etc. request
+- [x] How to fetch JSON resources
+- [x] How to manipulate data from an external service
